@@ -1,0 +1,252 @@
+<title>Tabella di inserimento</title>
+
+<div class="wrapper">
+  <section class="content-header">
+    <div class="container-fluid">
+      <div class="col-sm-6">
+        <h1>Richiesta</h1>
+      </div>
+    </div>
+  </section>
+
+  <section class="content">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-12">
+          <div class="card">
+            <div class="card-body">
+              <section class="content">
+                <div class="row">
+                  <div class="col-12">
+                    <div class="card">
+                      <div class="card-body">
+                        <div class="row">
+                          <div class="col-md-3">
+                            <label for="ticketInput">Ticket</label>
+                            <input
+                              id="ticketInput"
+                              type="text"
+                              class="form-control"
+                              required
+                            />
+                          </div>
+                          <div class="col-md-9">
+                            <label for="oggettoInput">Oggetto</label>
+                            <input
+                              id="oggettoInput"
+                              type="text"
+                              class="form-control"
+                              required
+                            />
+                          </div>
+                        </div>
+                        <div class="row">
+                          <div class="col-md-3">
+                            <div class="form-group">
+                              <label>Data di creazione</label>
+                              <div class="input-group">
+                                <div class="input-group-prepend">
+                                  <span class="input-group-text"
+                                    ><i class="far fa-calendar-alt"></i
+                                  ></span>
+                                </div>
+                                <input
+                                  type="datetime-local"
+                                  class="form-control"
+                                  data-inputmask-alias="datetime"
+                                  data-inputmask-inputformat="yyyy/MM/dd HH:mm:ss"
+                                  data-mask
+                                  id="dataCreazioneInput"
+                                  required
+                                />
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-md-3">
+                            <label for="applicativoInput">Applicativo</label>
+
+                            <select
+                              class="form-control select2"
+                              style="width: 100%"
+                              required
+                              (change)="getSelectedApplicativoId($event)"
+                              id="applicativoInput"
+                            >
+                              <option selected="selected"></option>
+                              <option
+                                *ngFor="let app of applicativi"
+                                [value]="app.applicativoId"
+                              >
+                                {{ app.applicativoDescrizione }}
+                              </option>
+                            </select>
+                          </div>
+                          <div class="col-md-3">
+                            <label for="oggettoInput"
+                              >Stato Richiesta CONSAP</label
+                            >
+                            <select
+                              class="form-control select2"
+                              style="width: 100%"
+                              required
+                              (change)="getSelectedRichiestaConsapId($event)"
+                              id="richiestaConsapInput"
+                            >
+                              <option selected="selected"></option>
+                              <option
+                                *ngFor="let richC of richiesteCONSAP"
+                                [value]="richC.statoRichiestaCONSAPId"
+                              >
+                                {{ richC.statoRichiestaCONSAPDescrizione }}
+                              </option>
+                            </select>
+                          </div>
+                          <div class="col-md-3">
+                            <label for="oggettoInput">Stato Richiesta OS</label>
+                            <select
+                              class="form-control select2"
+                              style="width: 100%"
+                              required
+                              (change)="getSelectedRichiestaOsId($event)"
+                              id="richiestaOsInput"
+                            >
+                              <option selected="selected"></option>
+                              <option
+                                *ngFor="let richOS of richiesteOS"
+                                [value]="richOS.statoRichiestaOSId"
+                              >
+                                {{ richOS.statoRichiestaOSDescrizione }}
+                              </option>
+                            </select>
+                          </div>
+                        </div>
+                        <div class="row">
+                          <div class="col-md-3">
+                            <label for="ticketInput"
+                              >Stato Approvazione CONSAP</label
+                            >
+                            <select
+                              class="form-control select2"
+                              style="width: 100%"
+                              required
+                              (change)="getSelectedApprovazioneConsapId($event)"
+                              id="approvazioneConsapInput"
+                            >
+                              <option selected="selected"></option>
+                              <option
+                                *ngFor="let richA of approvazioniConsap"
+                                [value]="richA.statoApprovazioneCONSAPId"
+                              >
+                                {{ richA.statoApprovazioneCONSAPDescrizione }}
+                              </option>
+                            </select>
+                          </div>
+                          <div class="col-md-3">
+                            <label for="oggettoInput"
+                              >Stato Approvazione OS</label
+                            >
+                            <select
+                              class="form-control select2"
+                              style="width: 100%"
+                              required
+                              (change)="getSelectedApprovazioneOsId($event)"
+                              id="approvazioneOsInput"
+                            >
+                              <option selected="selected"></option>
+                              <option
+                                *ngFor="let richOS of approvazioniOS"
+                                [value]="richOS.statoApprovazioneOSId"
+                              >
+                                {{ richOS.statoApprovazioneOSDescrizione }}
+                              </option>
+                            </select>
+                          </div>
+                          <div class="col-md-3">
+                            <div class="form-group">
+                              <label>Stima data fine</label>
+                              <div class="input-group">
+                                <div class="input-group-prepend">
+                                  <span class="input-group-text"
+                                    ><i class="far fa-calendar-alt"></i
+                                  ></span>
+                                </div>
+                                <input
+                                  type="datetime-local"
+                                  class="form-control"
+                                  data-inputmask-alias="datetime"
+                                  data-inputmask-inputformat="yyyy/MM/dd HH:mm:ss"
+                                  data-mask
+                                  id="stimaDataFineInput"
+                                  min="{{ endDate }}"
+                                  required
+                                />
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-md-3">
+                            <label for="oggettoInput">Importo</label>
+                            <input
+                              id="oggettoInput"
+                              type="text"
+                              class="form-control"
+                              id="importoInput"
+                              required
+                            />
+                          </div>
+                        </div>
+                        <div class="row">
+                          <div class="col-md-3">
+                            <label for="oggettoInput">Commesse</label>
+                            <select
+                              class="form-control select2"
+                              style="width: 100%"
+                              required
+                              (change)="getSelectedCommessaId($event)"
+                              id="commessaOsInput"
+                            >
+                              <option selected="selected"></option>
+                              <option
+                                *ngFor="let comm of commesse"
+                                [value]="comm.commessaOSId"
+                              >
+                                {{ comm.commessaOSCodiceCommessa }}
+                              </option>
+                            </select>
+                          </div>
+                          <div class="col-md-2">
+                            <label for="bottone">Inserisci</label>
+                            <button
+                              id="bottone"
+                              type="button"
+                              class="btn btn-primary form-control"
+                              (click)="saveRichiesta()"
+                            ></button>
+                          </div>
+                        </div>
+                        <table
+                          id="example2"
+                          class="table table-bordered table-hover"
+                        ></table>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </section>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+
+<div
+  class="d-flex justify-content-end fixed-bottom mb-3 mr-3"
+  style="position: relative; bottom: 200; right: 0"
+>
+  <div class="btn btn-primary">
+    <button type="submit" class="btn btn-primary" (click)="goBack()">
+      Indietro
+    </button>
+  </div>
+</div>

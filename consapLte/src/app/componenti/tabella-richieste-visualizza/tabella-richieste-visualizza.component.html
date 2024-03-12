@@ -1,0 +1,219 @@
+<title>AdminLTE 3 | DataTables</title>
+
+<!-- Google Font: Source Sans Pro -->
+
+<div class="hold-transition sidebar-mini">
+  <div class="wrapper">
+    <!-- Navbar -->
+
+    <!-- /.navbar -->
+
+    <!-- Main Sidebar Container -->
+
+    <!-- Content Wrapper. Contains page content -->
+
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+      <div class="container-fluid">
+        <div class="row mb-2">
+          <div class="col-sm-6">
+            <h1>Richiesta</h1>
+          </div>
+          <div class="col-sm-6">
+            <ol class="breadcrumb float-sm-right">
+              <li class="breadcrumb-item"><a href="#">Home</a></li>
+              <li class="breadcrumb-item active">DataTables</li>
+            </ol>
+          </div>
+        </div>
+      </div>
+      <!-- /.container-fluid -->
+    </section>
+
+    <!-- Main content -->
+    <section class="content">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-12">
+            <div class="card">
+              <div class="card-header">
+                <h3 class="card-title"></h3>
+              </div>
+              <!-- /.card-header -->
+              <div class="card-body">
+                
+                  <div class="row">
+                    <div class="col-md-3">
+                        <label for="ticketInput">Ticket</label>
+                        <input id="ticketInput" type="text" class="form-control" [disabled]="true" [(ngModel)]="rich.richiestaNumeroTicket">
+                    </div>
+                    <div class="col-md-9">
+                        <label for="oggettoInput">Oggetto</label>
+                        <input id="oggettoInput" type="text" class="form-control" [disabled]="true" [(ngModel)]="rich.richiestaOggetto">
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-md-3">
+                        <label for="ticketInput">Data di Creazione</label>
+                        <input id="ticketInput" type="text" class="form-control" [disabled]="true" [(ngModel)]="rich.richiestaDataCreazione">
+                    </div>
+                    <div class="col-md-3">
+                        <label for="oggettoInput">Applicativo</label>
+                        <input id="oggettoInput" type="text" class="form-control" [disabled]="true" [(ngModel)]="rich.applicativo.applicativoDescrizione">
+                    </div>
+                    <div class="col-md-3">
+                      <label for="oggettoInput">Stato Richiesta CONSAP</label>
+                      <input id="oggettoInput" type="text" class="form-control" [disabled]="true" [(ngModel)]="rich.statoRichiestaCONSAP.statoRichiestaCONSAPDescrizione">
+                  </div>
+                  <div class="col-md-3">
+                    <label for="oggettoInput">Stato Richiesta OS</label>
+                    <input id="oggettoInput" type="text" class="form-control" [disabled]="true" [(ngModel)]="rich.statoRichiestaOS.statoRichiestaOSDescrizione">
+                </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-md-3">
+                        <label for="ticketInput">Stato Approvazione CONSAP</label>
+                        <input id="ticketInput" type="text" class="form-control" [disabled]="true" [(ngModel)]="rich.statoApprovazioneCONSAP.statoApprovazioneCONSAPDescrizione">
+                    </div>
+                    <div class="col-md-3">
+                        <label for="oggettoInput">Stato Approvazione OS</label>
+                        <input id="oggettoInput" type="text" class="form-control" [disabled]="true" [(ngModel)]="rich.statoApprovazioneOS.statoApprovazioneOSDescrizione">
+                    </div>
+                    <div class="col-md-3">
+                      <label for="oggettoInput">Stima Data Fine</label>
+                      <input id="oggettoInput" type="text" class="form-control" [disabled]="true" [(ngModel)]="rich.richiestaDataStimaFine">
+                  </div>
+                  <div class="col-md-3">
+                    <label for="oggettoInput">Importo</label>
+                    <input id="oggettoInput" type="text" class="form-control" [disabled]="true" [(ngModel)]="rich.importo">
+                </div>
+                  </div>
+                  <div class = "row">
+                    <div class="col-md-3">
+                      <label for="oggettoInput">Codice Commessa</label>
+                      <input id="oggettoInput" type="text" class="form-control" [disabled]="true" [(ngModel)]="rich.commessaOS.commessaOSCodiceCommessa">
+                    </div>
+                  </div>
+                
+                <!--
+                <table id="example2" class="table table-bordered table-hover">
+                  <thead>
+                    <tr>
+                      <th class="col-md-3">Ticket</th>
+                      <th class="col-md-9">Oggetto</th>
+                      
+                      <th>Data di creazione</th>
+                      <th>Stato Richiesta CONSAP</th>
+                      <th>Stato Approvazione CONSAP</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td class="col.md-3">{{ rich.richiestaNumeroTicket }}</td>
+                      <td class="cold-md-9">{{ rich.richiestaOggetto }}</td>
+                      <td>{{ rich.applicativo.applicativoDescrizione }}</td>
+                      <td>
+                        {{
+                          rich.statoRichiestaCONSAP
+                            .statoRichiestaCONSAPDescrizione
+                        }}
+                      </td>
+                      <td>
+                        {{
+                          rich.statoApprovazioneCONSAP
+                            .statoApprovazioneCONSAPDescrizione
+                        }}
+                      </td>
+                    </tr>
+                  </tbody>
+                  <thead>
+                    <tr>
+                      <th>Data di creazione</th>
+                      <th>Stato Approvazione OS</th>
+                      <th>Stato Richiesta OS</th>
+                      <th>Codice Commessa</th>
+                      <th>Importo</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td>{{ rich.richiestaDataCreazione }}</td>
+                      <td>
+                        {{
+                          rich.statoApprovazioneOS
+                            .statoApprovazioneOSDescrizione
+                        }}
+                      </td>
+                      <td>
+                        {{ rich.statoRichiestaOS.statoRichiestaOSDescrizione }}
+                      </td>
+                      <td>{{ rich.commessaOS.commessaOSCodiceCommessa }}</td>
+                      <td>{{ rich.importo }}</td>
+                    </tr>
+                  </tbody>
+                </table>
+              -->
+                <table
+                  id="example2"
+                  class="table table-bordered table-hover"
+                ></table>
+              </div>
+              <!-- /.card-body -->
+            </div>
+            <!-- /.card -->
+
+            <!-- /.card -->
+          </div>
+          <!-- /.col -->
+        </div>
+        <!-- /.row -->
+      </div>
+      <!-- /.container-fluid -->
+    </section>
+
+    <!-- /.content -->
+
+    <!-- /.content-wrapper -->
+
+    <!-- Control Sidebar -->
+    <aside class="control-sidebar control-sidebar-dark">
+      <!-- Control sidebar content goes here -->
+    </aside>
+    <!-- /.control-sidebar -->
+  </div>
+  <div
+    class="d-flex justify-content-end fixed-bottom mb-3 mr-3"
+    style="position: relative; bottom: 200; right: 0"
+  >
+    <div class="btn btn-primary">
+      <button type="submit" class="btn btn-primary" (click)="goBack()">
+        Indietro
+      </button>
+    </div>
+  </div>
+  <!-- ./wrapper -->
+  <!-- Page specific script -->
+  <script>
+    $(function () {
+      $("#example1")
+        .DataTable({
+          responsive: true,
+          lengthChange: false,
+          autoWidth: false,
+          buttons: ["copy", "csv", "excel", "pdf", "print", "colvis"],
+        })
+        .buttons()
+        .container()
+        .appendTo("#example1_wrapper .col-md-6:eq(0)");
+      $("#example2").DataTable({
+        paging: true,
+        lengthChange: false,
+        searching: false,
+        ordering: true,
+        info: true,
+        autoWidth: false,
+        responsive: true,
+      });
+    });
+  </script>
+</div>

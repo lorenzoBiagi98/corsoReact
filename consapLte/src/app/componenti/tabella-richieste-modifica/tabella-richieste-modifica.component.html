@@ -1,0 +1,186 @@
+<title>Tabella di Modifica</title>
+  <div class="wrapper">
+    <section class="content-header">
+      <div class="container-fluid">
+        <div class="col-sm-6">
+          <h1>Richiesta</h1>
+        </div>
+      </div>
+    </section>
+
+   
+    <section class="content">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-12">
+            <div class="card">
+              <div class="card-body">
+                <section class="content">
+                    <div class="row">
+                      <div class="col-12">
+                        <div class="card">
+                          <div class="card-body">
+                            <div class="row">
+                              <div class="col-md-3">
+                                <label for="ticketInput">Ticket</label>
+                                <input
+                                  id="ticketInput"
+                                  type="text"
+                                  class="form-control"
+                                  placeholder="{{rich.richiestaNumeroTicket}}"
+                                  readonly
+                                />
+                              </div>
+                              <div class="col-md-9">
+                                <label for="oggettoInput">Oggetto</label>
+                                <input
+                                  id="oggettoInput"
+                                  type="text"
+                                  class="form-control"
+                                  placeholder="{{rich.richiestaOggetto}}"
+                                  readonly
+                                />
+                              </div>
+                            </div>
+                            <div class="row">
+                              <div class="col-md-3">
+                                <label for="oggettoInput">Data di Creazione</label>
+                                <input
+                                  id="oggettoInput"
+                                  type="text"
+                                  class="form-control"
+                                  placeholder="{{rich.richiestaDataCreazione}}"
+                                  readonly
+                                />
+                              </div>
+                              <div class="col-md-3">
+                                <label for="applicativoInput">Applicativo</label>
+                                <select class="form-control select2" style="width: 100%" required (change)="getSelectedApplicativoId($event)">
+                                    <option disabled selected>{{ rich.applicativo.applicativoDescrizione }}</option>
+                                    <ng-container *ngFor="let app of applicativi">
+                                        <option *ngIf="app.applicativoDescrizione !== rich.applicativo.applicativoDescrizione" [value]="app.applicativoId">{{ app.applicativoDescrizione }}</option>
+                                    </ng-container>
+                                </select>
+                            </div>
+                            <div class="col-md-3">
+                              <label for="richiestaConsapInput">Stato Richiesta CONSAP</label>
+                              <select class="form-control select2" style="width: 100%" required (change)="getSelectedRichiestaConsapId($event)">
+                                  <option disabled selected>{{ rich.statoRichiestaCONSAP.statoRichiestaCONSAPDescrizione }}</option>
+                                  <ng-container *ngFor="let richC of richiesteCONSAP">
+                                      <option *ngIf="richC.statoRichiestaCONSAPDescrizione !== rich.statoRichiestaCONSAP.statoRichiestaCONSAPDescrizione" [value]="richC.statoRichiestaCONSAPId">{{ richC.statoRichiestaCONSAPDescrizione }}</option>
+                                  </ng-container>
+                              </select>
+                          </div>
+                          <div class="col-md-3">
+                            <label for="richiestaOsInput">Stato Richiesta OS</label>
+                            <select class="form-control select2" style="width: 100%" required (change)="getSelectedRichiestaOsId($event)">
+                                <option disabled selected>{{ rich.statoRichiestaOS.statoRichiestaOSDescrizione }}</option>
+                                <ng-container *ngFor="let richOS of richiesteOS">
+                                    <option *ngIf="richOS.statoRichiestaOSDescrizione !== rich.statoRichiestaOS.statoRichiestaOSDescrizione" [value]="richOS.statoRichiestaOSId">{{ richOS.statoRichiestaOSDescrizione }}</option>
+                                </ng-container>
+                            </select>
+                        </div>
+                            </div>
+                            <div class="row">
+                              <div class="col-md-3">
+                                <label for="approvazioneConsapInput">Stato Approvazione CONSAP</label>
+                                <select class="form-control select2" style="width: 100%" required (change)="getSelectedApprovazioneConsapId($event)">
+                                    <option disabled selected>{{ rich.statoApprovazioneCONSAP.statoApprovazioneCONSAPDescrizione }}</option>
+                                    <ng-container *ngFor="let richA of approvazioneCONSAP">
+                                        <option *ngIf="richA.statoApprovazioneCONSAPDescrizione !== rich.statoApprovazioneCONSAP.statoApprovazioneCONSAPDescrizione" [value]="richA.statoApprovazioneCONSAPId">{{ richA.statoApprovazioneCONSAPDescrizione }}</option>
+                                    </ng-container>
+                                </select>
+                            </div>
+                            <div class="col-md-3">
+                              <label for="approvazioneOsInput">Stato Approvazione OS</label>
+                              <select class="form-control select2" style="width: 100%" required (change)="getSelectedApprovazioneOsId($event)">
+                                  <option disabled selected>{{ rich.statoApprovazioneOS.statoApprovazioneOSDescrizione }}</option>
+                                  <ng-container *ngFor="let richOS of approvazioniOS">
+                                      <option *ngIf="richOS.statoApprovazioneOSDescrizione !== rich.statoApprovazioneOS.statoApprovazioneOSDescrizione" [value]="richOS.statoApprovazioneOSId">{{ richOS.statoApprovazioneOSDescrizione }}</option>
+                                  </ng-container>
+                              </select>
+                          </div>
+                              <div class="col-md-3">
+                                <div class="form-group">
+                                  <label>Stima data fine</label>
+                                  <div class="input-group">
+                                    <div class="input-group-prepend">
+                                      <span class="input-group-text"
+                                        ><i class="far fa-calendar-alt"></i
+                                      ></span>
+                                    </div>
+                                    <input
+                                      type="datetime-local"
+                                      class="form-control"
+                                      data-inputmask-alias="datetime"
+                                      data-inputmask-inputformat="yyyy/MM/dd HH:mm:ss"
+                                      data-mask
+                                      id="stimaDataFineInput"
+                                      min="{{ endDate }}"
+                                      required
+                                    />
+                                  </div>
+                                </div>
+                              </div>
+                              <div class="col-md-3">
+                                <label for="oggettoInput">Importo</label>
+                                <input
+                                  type="text"
+                                  class="form-control"
+                                  id="importoInput"
+                                  placeholder="{{rich.importo}}"
+                                  required
+                                />
+                              </div>
+                            </div>
+                            <div class="row">
+                              <div class="col-md-3">
+                                <label for="oggettoInput">Commesse</label>
+                                <select class="form-control select2" style="width: 100%" required (change)="getSelectedCommessaId($event)">
+                                    <option disabled selected>{{ rich.commessaOS.commessaOSCodiceCommessa }}</option>
+                                    <ng-container *ngFor="let comm of commesse">
+                                        <option *ngIf="comm.commessaOSCodiceCommessa !== rich.commessaOS.commessaOSCodiceCommessa" [value]="comm.commessaOSId">{{ comm.commessaOSCodiceCommessa }}</option>
+                                    </ng-container>
+                                </select>
+                            </div>
+                            
+                              <div class="col-md-2">
+                                <label for="bottone">Inserisci</label>
+                                <button
+                                  id="bottone"
+                                  type="button"
+                                  class="btn btn-primary form-control"
+                                (click)="putRichiesta()"
+                                ></button>
+                              </div>
+                            </div>
+                            <table
+                              id="example2"
+                              class="table table-bordered table-hover"
+                            ></table>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                </section>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <div
+    class="d-flex justify-content-end fixed-bottom mb-3 mr-3"
+    style="position: relative; bottom: 200; right: 0"
+  >
+    <div class="btn btn-primary">
+      <button type="submit" class="btn btn-primary" (click)="goBack()">
+        Indietro
+      </button>
+    </div>
+  </div>
+
+
+

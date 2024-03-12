@@ -1,0 +1,8 @@
+export interface richiestaOS{
+statoRichiestaOSId:number;
+statoRichiestaOSDescrizione:string;
+statoRichiestaOSUtenteInserimento:string;
+statoRichiestaOSUtenteModifica:string;
+statoRichiestaOSDataInserimento:Date;
+statoRichiestaOSDataModifica:Date;
+}
