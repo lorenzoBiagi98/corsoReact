@@ -1,0 +1,12 @@
+echo test >> File1.rtf
+git commit -am "prova??"
+rm File1.rtf
+git status
+git ls-files
+git add File1.rtf
+git ls-files
+git status
+git commit -m "Rimuovi"
+git add File1.rtf
+git add File1.rtf
+git add File2.rtf

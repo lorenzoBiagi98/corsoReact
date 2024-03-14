@@ -1,0 +1,5 @@
+/usr/local/mysql-8.0.28-macos11-x86_64/bin/mysqldump -u root -p football1 > dump.sql
+/usr/local/mysql-8.0.28-macos11-x86_64/bin/mysqldump -u root -p football1 > dump.sql
+ls dump.sql
+open dump.sql
+pwd

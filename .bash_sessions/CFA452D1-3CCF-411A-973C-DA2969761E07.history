@@ -1,0 +1,41 @@
+git init
+git add File1.rtf
+git status
+git add Scrivania/File1.rtf
+git rm --cached Scrivania/File1.rtf
+git rm --cached Scrivania/File1.rtf
+git rm --cached File1.rtf
+git add File2.rtf
+git log
+git -ls
+git -ls files
+git add File2.rtf
+cd
+Scrivania
+cd .git
+cd home
+cd..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+pwd
+rm -rf .git
+git int
+git init
+git add File1.rtf
+git init
+rm -rf .git
+git init
+git .add
+git add File1.rtf
+cd ~
+git init
+git add File1.rtf
+git add File2.rtf
+git add Scrivania/File1.rtf
+cp
+cp ~/Desktop/File1.rtf 
+git add File1.rtf

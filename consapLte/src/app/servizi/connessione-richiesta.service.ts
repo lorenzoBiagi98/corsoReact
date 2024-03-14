@@ -22,11 +22,17 @@ export class ConnessioneRichiestaService {
     richiesta:richiesta
   ): Observable<richiesta[]> {
     console.log(JSON.stringify(richiesta) + 'sto per inviare');
-    return this.http.put<any>(`${this.urlServer}/richiesta/${idRichiesta}`,richiesta);
+    return this.http.put<any>(`${this.urlServer}/richiesta/put/${idRichiesta}`,richiesta);
   }
 
   public getRichieste(): Observable<richiesta[]> {
     return this.http.get<any>(`${this.urlServer}/richiesta/richieste`);
+  }
+
+  public deleteRichiesta(
+    idRichiesta:number
+  ): Observable<void>{
+    return this.http.delete<void>(`${this.urlServer}/richiesta/delete/${idRichiesta}`)
   }
 
   public getRichiesteByFiltro(

@@ -237,21 +237,26 @@ export class TabellaRichiesteModificaComponent implements OnInit {
   const nuovoImporto = (<HTMLInputElement>document.getElementById('importoInput')).value;
 
   if (nuovoImporto.trim() !== '') {
-      this.nuovaRichiesta.importo = nuovoImporto;
+      this.nuovaRichiesta.importo = parseInt(nuovoImporto);
   } else {
       this.nuovaRichiesta.importo = this.rich.importo;
   }
   
-
+  console.log(this.idCommessa + "idCommessa");
     if(this.idCommessa != null || typeof this.idCommessa !== "undefined"){
     this.nuovaRichiesta.commessaOS = {
       commessaOSId:this.idCommessa
+      
+      
     }
+    console.log(this.idCommessa + "idCommessa")
+    console.log(this.nuovaRichiesta.commessaOS);
   }else{
     this.nuovaRichiesta.commessaOS ={
       commessaOSId:this.rich.commessaOS.commessaOSId
     }
   }
+  console.log(this.nuovaRichiesta.commessaOS.commessaOSId + "vediamo ")
 
 
     this.connessioneRich
@@ -263,5 +268,19 @@ export class TabellaRichiesteModificaComponent implements OnInit {
 
   goBack(): void {
     this.location.back();
+  }
+
+
+  showToast1: boolean = false;
+
+  showToast() {
+    this.showToast1 = true; 
+    setTimeout(() => {
+      this.showToast1 = false;
+    }, 3000); // 10 secondi
+  }
+
+  hideToast() {
+    this.showToast1 = false; 
   }
 }

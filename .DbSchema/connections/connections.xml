@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<connectors >
+	<dbms name="MySql" >
+		<connector name="MySql" driver_class="com.mysql.cj.jdbc.Driver" driver_jar="mysql-connector-j-8.3.0.jar" driver_desc="Standard" host="localhost" port="3306" user="root" useSystemProxy="false" />
+	</dbms>
+</connectors>

@@ -1,0 +1,6 @@
+git status
+git remove -f
+git clean -f
+git status
+git init
+git add File1.rtf

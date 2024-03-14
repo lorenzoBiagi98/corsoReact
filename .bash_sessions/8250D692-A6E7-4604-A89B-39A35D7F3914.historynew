@@ -1,0 +1,9 @@
+curl -sL https://firebase.tools | bash
+firebase login
+cd /Users/lorenzobiagi/Documents/Utilità/Corso Open System/corsoAngular1/dist/corso-angular1
+cd corsoAngular1
+pwd
+cd Corso Open System
+cd /Users/lorenzobiagi/Documents/Utilità/Corso Open System/corsoAngular1/dist/corso-angular1
+cd /Users/lorenzobiagi/Documents/Utilità/Corso Open System/corsoAngular1/dist/corso-angular1
+ls -l

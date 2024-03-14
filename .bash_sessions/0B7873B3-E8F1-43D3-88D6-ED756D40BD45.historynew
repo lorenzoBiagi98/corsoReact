@@ -1,0 +1,36 @@
+docker compose -up
+CD Desktop
+ls
+cd 
+cd Desktop
+ls
+cd docker-bnb
+ls
+ls-la
+ls -la
+docker 
+docker compose up
+ps aux | grep mysql
+show database
+mysql -u your_username -p -e 'show databases;'
+mysql -u your_username -p -e 'show databases;'
+mysql -uroot -e 'show databases
+Acqua
+
+
+exit
+exi
+ls
+d
+
+d
+d
+d
+% docker
+~ % docker
+docker-compose
+docker
+docker --version
+docker info
+docker ps
+docker network ls

@@ -1,0 +1,27 @@
+docker info
+docker info
+docker --version
+which docker
+export PATH="/usr/local/bin/docker:$PATH"
+open -e ~/.bash_profile
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+root@0331d3432103:/# 
+docker --version
+which docker
+~/.bash_profile) 
+~/.bash_profile 
+echo $0
+touch ~/.bashrc
+ls -la ~
+open -a TextEdit .bashrc
+export PATH="/usr/local/bin/docker:$PATH"source ~/.bashrc
+echo 'export PATH="/usr/local/bin/docker:$PATH"' >> ~/.bashrc
+source ~/.bashrc
+docker --version
+echo $PATH
+open -a TextEdit ~/.bashrc
+source ~/.bashrc
+echo $PATH
+open -a TextEdit ~/.bashrc
+source ~/.bashrc
+echo $PATH

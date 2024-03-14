@@ -1,0 +1,3 @@
+ng Dashboard –no-standalone 
+ng new DashBoard --no-standalone
+code Dashboard

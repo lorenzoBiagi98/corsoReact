@@ -1,0 +1,193 @@
+mag 2 17:42:42 [Genymotion] [Warning] Unable to load translations. Falling back to english 
+mag 2 17:42:42 [Genymotion] [Warning] ****  STARTING GENYMOTION  **** 
+mag 2 17:42:42 [Genymotion] [Warning] Genymotion Version: Genymotion 2.4.0 
+mag 2 17:42:42 [Genymotion] [Debug] [LaunchpadApp] Started with ("/Volumes/genymotion-2.4.0/Genymotion.app/Contents/MacOS/genymotion") 
+mag 2 17:42:43 [Genymotion] [Debug] [doRequest] Requesting: "https://cloud.genymotion.com/launchpad/last_version/mac/x64/" 
+mag 2 17:42:43 [Genymotion] [Debug] Getting currently authenticated user from  local cache 
+mag 2 17:42:43 [Genymotion] [Debug] [doRequest] done 
+mag 2 17:42:44 [Genymotion] [Debug] Loading "vboxmanage" plugin 
+mag 2 17:42:44 [Genymotion] [Debug] Plugin "vboxmanage" loaded 
+mag 2 17:42:44 [Genymotion] [Debug] Chipset: "GenuineIntel" 
+mag 2 17:42:44 [Genymotion] [Debug] CPUID 0x1 (Intel): ECX= "7ffafbff" 
+mag 2 17:42:44 [Genymotion] [Debug] [VBoxManageCore] Path: "VBoxManage" 
+mag 2 17:42:44 [Genymotion] [Error] Can't run VBoxManage ("list", "hostinfo") 
+mag 2 17:42:44 [Genymotion] [Debug] [getGenymotionLastVersion] New version ( "2.4.0" ) available here: "http://files2.genymotion.com/genymotion/genymotion-2.4.0/genymotion-2.4.0.dmg" 
+mag 2 17:42:44 [Genymotion] [Debug] Genymotion is up to date 
+mag 2 17:42:44 [Genymotion] [Error] Can't run VBoxManage ("list", "hostinfo") 
+mag 2 17:42:45 [Genymotion] [Error] Can't run VBoxManage ("list", "hostinfo") 
+mag 2 17:42:45 [Genymotion] [Error] Can't run VBoxManage ("list", "hostinfo") 
+mag 2 17:42:46 [Genymotion] [Error] Can't run VBoxManage ("list", "hostinfo") 
+mag 2 17:42:46 [Genymotion] [Error] Can't run VBoxManage ("list", "hostinfo") 
+mag 2 17:42:47 [Genymotion] [Error] "Fail to load vboxmanage plugin from /Volumes/genymotion-2.4.0/Genymotion.app/Contents/MacOS/plugins/" 
+mag 2 17:42:47 [Genymotion] [Error] VM Engine failed to load 
+mag 2 17:42:47 [Genymotion] [Error] Unable to find VM Engine. Plugin loading aborted. 
+mag 2 17:42:47 [Genymotion] [Debug] [LogCollector] VM engine not available 
+mag 2 17:42:47 [Genymotion] [Debug] [LogCollector] Creating temporary folder: "/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/genymotion-logs-tmp" 
+mag 2 17:42:47 [Genymotion] [Warning] [LogCollector] Running "/Volumes/genymotion-2.4.0/Genymotion.app/Contents/MacOS/tools/glewinfo" with args () 
+mag 2 17:42:48 [Genymotion] [Warning] [LogCollector] Running "kextstat" with args () 
+mag 2 17:42:48 [Genymotion] [Warning] [LogCollector] Running "system_profiler" with args ("SPAudioDataType", "SPBluetoothDataType", "SPCameraDataType", "SPDeveloperToolsDataType", "SPDiagnosticsDataType", "SPEthernetDataType", "SPFirewallDataType", "SPMemoryDataType", "SPNetworkDataType", "SPConfigurationProfileDataType", "SPSoftwareDataType", "SPUSBDataType") 
+mag 2 17:42:50 [Genymotion] [Warning] [LogCollector] Running "vm_stat" with args () 
+mag 2 17:42:50 [Genymotion] [Warning] [LogCollector] Running "ps" with args ("ax") 
+mag 2 17:42:50 [Genymotion] [Warning] [LogCollector] Running "df" with args ("-kh") 
+mag 2 17:42:50 [Genymotion] [Warning] [LogCollector] Running "sysctl" with args ("hw") 
+mag 2 17:42:50 [Genymotion] [Debug] [LogCollector] Copying file "/Users/lorenzobiagi/.Genymobile/genymotion.log" to "/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/genymotion-logs-tmp/general-genymotion.log" 
+mag 2 17:42:50 [Genymotion] [Debug] [archiveDirectory] Archive created under "/Users/lorenzobiagi/genymotion-log.zip" 
+mag 2 17:42:50 [Genymotion] [Debug] [LogCollector] Removing temporary folder: "/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/genymotion-logs-tmp" 
+mag 2 17:42:50 [Genymotion] [Debug] Result for "Generating log archive..." true 
+mag 2 17:42:59 [Genymotion] [Error] **** STOPPING GENYMOTION WITH ERROR **** 
+mag 2 17:42:59 [Genymotion] [Warning] ****  STOPPING GENYMOTION  **** 
+mag 10 13:16:11 [Genymotion] [Debug] Proxy configuration: no proxy used 
+mag 10 13:16:11 [Genymotion] [Warning] Unable to load translations. Falling back to english 
+mag 10 13:16:11 [Genymotion] [Warning] ****  STARTING GENYMOTION  **** 
+mag 10 13:16:11 [Genymotion] [Warning] Genymotion Version: Genymotion 2.4.0 
+mag 10 13:16:11 [Genymotion] [Debug] [LaunchpadApp] Started with ("/Volumes/genymotion-2.4.0/Genymotion.app/Contents/MacOS/genymotion") 
+mag 10 13:16:12 [Genymotion] [Debug] [doRequest] Requesting: "https://cloud.genymotion.com/launchpad/last_version/mac/x64/" 
+mag 10 13:16:12 [Genymotion] [Debug] Getting currently authenticated user from  local cache 
+mag 10 13:16:12 [Genymotion] [Debug] [doRequest] done 
+mag 10 13:16:12 [Genymotion] [Debug] Loading "vboxmanage" plugin 
+mag 10 13:16:13 [Genymotion] [Debug] Plugin "vboxmanage" loaded 
+mag 10 13:16:13 [Genymotion] [Debug] Chipset: "GenuineIntel" 
+mag 10 13:16:13 [Genymotion] [Debug] CPUID 0x1 (Intel): ECX= "7ffafbff" 
+mag 10 13:16:13 [Genymotion] [Debug] [VBoxManageCore] Path: "VBoxManage" 
+mag 10 13:16:13 [Genymotion] [Error] Can't run VBoxManage ("list", "hostinfo") 
+mag 10 13:16:13 [Genymotion] [Debug] [getGenymotionLastVersion] New version ( "2.4.0" ) available here: "http://files2.genymotion.com/genymotion/genymotion-2.4.0/genymotion-2.4.0.dmg" 
+mag 10 13:16:13 [Genymotion] [Debug] Genymotion is up to date 
+mag 10 13:16:13 [Genymotion] [Error] Can't run VBoxManage ("list", "hostinfo") 
+mag 10 13:16:14 [Genymotion] [Error] Can't run VBoxManage ("list", "hostinfo") 
+mag 10 13:16:14 [Genymotion] [Error] Can't run VBoxManage ("list", "hostinfo") 
+mag 10 13:16:15 [Genymotion] [Error] Can't run VBoxManage ("list", "hostinfo") 
+mag 10 13:16:15 [Genymotion] [Error] Can't run VBoxManage ("list", "hostinfo") 
+mag 10 13:16:16 [Genymotion] [Error] "Fail to load vboxmanage plugin from /Volumes/genymotion-2.4.0/Genymotion.app/Contents/MacOS/plugins/" 
+mag 10 13:16:16 [Genymotion] [Error] VM Engine failed to load 
+mag 10 13:16:16 [Genymotion] [Error] Unable to find VM Engine. Plugin loading aborted. 
+mag 10 13:16:16 [Genymotion] [Debug] [LogCollector] VM engine not available 
+mag 10 13:16:16 [Genymotion] [Debug] [LogCollector] Creating temporary folder: "/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/genymotion-logs-tmp" 
+mag 10 13:16:16 [Genymotion] [Warning] [LogCollector] Running "/Volumes/genymotion-2.4.0/Genymotion.app/Contents/MacOS/tools/glewinfo" with args () 
+mag 10 13:16:17 [Genymotion] [Warning] [LogCollector] Running "kextstat" with args () 
+mag 10 13:16:17 [Genymotion] [Warning] [LogCollector] Running "system_profiler" with args ("SPAudioDataType", "SPBluetoothDataType", "SPCameraDataType", "SPDeveloperToolsDataType", "SPDiagnosticsDataType", "SPEthernetDataType", "SPFirewallDataType", "SPMemoryDataType", "SPNetworkDataType", "SPConfigurationProfileDataType", "SPSoftwareDataType", "SPUSBDataType") 
+mag 10 13:16:19 [Genymotion] [Warning] [LogCollector] Running "vm_stat" with args () 
+mag 10 13:16:19 [Genymotion] [Warning] [LogCollector] Running "ps" with args ("ax") 
+mag 10 13:16:19 [Genymotion] [Warning] [LogCollector] Running "df" with args ("-kh") 
+mag 10 13:16:19 [Genymotion] [Warning] [LogCollector] Running "sysctl" with args ("hw") 
+mag 10 13:16:19 [Genymotion] [Debug] [LogCollector] Copying file "/Users/lorenzobiagi/.Genymobile/genymotion.log" to "/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/genymotion-logs-tmp/general-genymotion.log" 
+mag 10 13:16:19 [Genymotion] [Debug] [archiveDirectory] Archive created under "/Users/lorenzobiagi/genymotion-log.zip" 
+mag 10 13:16:19 [Genymotion] [Debug] [LogCollector] Removing temporary folder: "/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/genymotion-logs-tmp" 
+mag 10 13:16:19 [Genymotion] [Debug] Result for "Generating log archive..." true 
+mag 10 13:18:02 [Genymotion] [Error] **** STOPPING GENYMOTION WITH ERROR **** 
+mag 10 13:18:02 [Genymotion] [Warning] ****  STOPPING GENYMOTION  **** 
+mag 10 13:22:31 [Genymotion] [Debug] Proxy configuration: no proxy used 
+mag 10 13:22:31 [Genymotion] [Warning] Unable to load translations. Falling back to english 
+mag 10 13:22:31 [Genymotion] [Warning] ****  STARTING GENYMOTION  **** 
+mag 10 13:22:31 [Genymotion] [Warning] Genymotion Version: Genymotion 2.4.0 
+mag 10 13:22:31 [Genymotion] [Debug] [LaunchpadApp] Started with ("/Volumes/genymotion-2.4.0/Genymotion.app/Contents/MacOS/genymotion") 
+mag 10 13:22:32 [Genymotion] [Debug] [doRequest] Requesting: "https://cloud.genymotion.com/launchpad/last_version/mac/x64/" 
+mag 10 13:22:32 [Genymotion] [Debug] Getting currently authenticated user from  local cache 
+mag 10 13:22:32 [Genymotion] [Debug] [doRequest] done 
+mag 10 13:22:32 [Genymotion] [Debug] [getGenymotionLastVersion] New version ( "2.4.0" ) available here: "http://files2.genymotion.com/genymotion/genymotion-2.4.0/genymotion-2.4.0.dmg" 
+mag 10 13:22:32 [Genymotion] [Debug] Genymotion is up to date 
+mag 10 13:22:32 [Genymotion] [Debug] Loading "vboxmanage" plugin 
+mag 10 13:22:32 [Genymotion] [Debug] Plugin "vboxmanage" loaded 
+mag 10 13:22:32 [Genymotion] [Debug] Chipset: "GenuineIntel" 
+mag 10 13:22:32 [Genymotion] [Debug] CPUID 0x1 (Intel): ECX= "7ffafbff" 
+mag 10 13:22:32 [Genymotion] [Debug] [VBoxManageCore] Path: "VBoxManage" 
+mag 10 13:22:33 [Genymotion] [Debug] VBoxManage ("list", "hostinfo") returns 0 
+mag 10 13:22:33 [Genymotion] [Debug] [System properties] Online physical CPU number: 8 
+mag 10 13:22:33 [Genymotion] [Debug] [System properties] Online virtual CPU number: 8 
+mag 10 13:22:33 [Genymotion] [Debug] CPU number is > 8 - Fix max number to 8 
+mag 10 13:22:33 [Genymotion] [Debug] [System properties] Max CPU number: 8 
+mag 10 13:22:33 [Genymotion] [Debug] [System properties] Max memory size: 16384 
+mag 10 13:22:33 [Genymotion] [Debug] VBoxManage ("list", "hostonlyifs") returns 0 
+mag 10 13:22:33 [Genymotion] [Debug] VBoxManage ("list", "dhcpservers") returns 0 
+mag 10 13:22:33 [Genymotion] [Debug] VBoxManage ("hostonlyif", "create") returns 0 
+mag 10 13:22:33 [Genymotion] [Debug] Host only adapter created with success: "vboxnet0" 
+mag 10 13:22:33 [Genymotion] [Debug] VBoxManage ("list", "hostonlyifs") returns 0 
+mag 10 13:22:34 [Genymotion] [Debug] VBoxManage ("dhcpserver", "remove", "--ifname", "vboxnet0") returns 0 
+mag 10 13:22:34 [Genymotion] [Debug] VBoxManage ("dhcpserver", "add", "--ifname", "vboxnet0", "--ip", "192.168.56.100", "--netmask", "255.255.255.0", "--lowerip", "192.168.56.101", "--upperip", "192.168.56.254", "--enable") returns 0 
+mag 10 13:22:34 [Genymotion] [Debug] DHCP server for adapter "vboxnet0" created with success 
+mag 10 13:22:34 [Genymotion] [Debug] VBoxManage ("--version") returns 0 
+mag 10 13:22:34 [Genymotion] [Debug] VM engine version: "4.3.26r98988" 
+mag 10 13:22:34 [Genymotion] [Debug] VMX/SVM CPU availability: true 
+mag 10 13:22:34 [Genymotion] [Debug] VBoxManage ("--version") returns 0 
+mag 10 13:22:34 [Genymotion] [Debug] VM engine version: "4.3.26r98988" 
+mag 10 13:22:34 [Genymotion] [Debug] VBoxManage ("list", "vms") returns 0 
+mag 10 13:22:46 [Genymotion] [Debug] Getting currently authenticated user from  local cache 
+mag 10 13:23:07 [Genymotion] [Debug] [login] Trying to authenticate  "lorenzo.biagi2@gmail.com" 
+mag 10 13:23:07 [Genymotion] [Debug] Trying to logout user 
+mag 10 13:23:07 [Genymotion] [Debug] [doRequest] Requesting: "https://cloud.genymotion.com/launchpad/login/" 
+mag 10 13:23:07 [Genymotion] [Error] [doRequest] Access to server forbidden 
+mag 10 13:23:07 [Genymotion] [Error] [login] Login process result: 4 
+mag 10 13:23:07 [Genymotion] [Error] [BasicAuthDialog::launchAuthentication] Login method received Connector::ResultCode  4 :  "Wrong username or password" 
+mag 10 13:23:16 [Genymotion] [Debug] [login] Trying to authenticate  "lorenzo.biagi2@gmail.com" 
+mag 10 13:23:16 [Genymotion] [Debug] Trying to logout user 
+mag 10 13:23:16 [Genymotion] [Debug] [doRequest] Requesting: "https://cloud.genymotion.com/launchpad/login/" 
+mag 10 13:23:17 [Genymotion] [Error] [doRequest] Access to server forbidden 
+mag 10 13:23:17 [Genymotion] [Error] [login] Login process result: 4 
+mag 10 13:23:17 [Genymotion] [Error] [BasicAuthDialog::launchAuthentication] Login method received Connector::ResultCode  4 :  "Wrong username or password" 
+mag 10 13:23:34 [Genymotion] [Debug] [login] Trying to authenticate  "lorenzo.biagi@outlook.com" 
+mag 10 13:23:34 [Genymotion] [Debug] Trying to logout user 
+mag 10 13:23:34 [Genymotion] [Debug] [doRequest] Requesting: "https://cloud.genymotion.com/launchpad/login/" 
+mag 10 13:23:35 [Genymotion] [Error] [doRequest] Access to server forbidden 
+mag 10 13:23:35 [Genymotion] [Error] [login] Login process result: 4 
+mag 10 13:23:35 [Genymotion] [Error] [BasicAuthDialog::launchAuthentication] Login method received Connector::ResultCode  4 :  "Wrong username or password" 
+mag 10 13:23:35 [Genymotion] [Debug] [login] Trying to authenticate  "lorenzo.biagi@outlook.com" 
+mag 10 13:23:35 [Genymotion] [Debug] Trying to logout user 
+mag 10 13:23:35 [Genymotion] [Debug] [doRequest] Requesting: "https://cloud.genymotion.com/launchpad/login/" 
+mag 10 13:23:36 [Genymotion] [Error] [doRequest] Access to server forbidden 
+mag 10 13:23:36 [Genymotion] [Error] [login] Login process result: 4 
+mag 10 13:23:36 [Genymotion] [Error] [BasicAuthDialog::launchAuthentication] Login method received Connector::ResultCode  4 :  "Wrong username or password" 
+mag 10 13:23:36 [Genymotion] [Debug] [login] Trying to authenticate  "lorenzo.biagi@outlook.com" 
+mag 10 13:23:36 [Genymotion] [Debug] Trying to logout user 
+mag 10 13:23:36 [Genymotion] [Debug] [doRequest] Requesting: "https://cloud.genymotion.com/launchpad/login/" 
+mag 10 13:23:37 [Genymotion] [Error] [doRequest] Access to server forbidden 
+mag 10 13:23:37 [Genymotion] [Error] [login] Login process result: 4 
+mag 10 13:23:37 [Genymotion] [Error] [BasicAuthDialog::launchAuthentication] Login method received Connector::ResultCode  4 :  "Wrong username or password" 
+mag 10 13:23:45 [Genymotion] [Debug] [login] Trying to authenticate  "" 
+mag 10 13:23:45 [Genymotion] [Debug] Trying to logout user 
+mag 10 13:23:45 [Genymotion] [Debug] [doRequest] Requesting: "https://cloud.genymotion.com/launchpad/login/" 
+mag 10 13:23:45 [Genymotion] [Error] [doRequest] Access to server forbidden 
+mag 10 13:23:45 [Genymotion] [Error] [login] Login process result: 4 
+mag 10 13:23:45 [Genymotion] [Error] [BasicAuthDialog::launchAuthentication] Login method received Connector::ResultCode  4 :  "Wrong username or password" 
+mag 10 13:25:20 [Genymotion] [Debug] [login] Trying to authenticate  "mago22" 
+mag 10 13:25:20 [Genymotion] [Debug] Trying to logout user 
+mag 10 13:25:20 [Genymotion] [Debug] [doRequest] Requesting: "https://cloud.genymotion.com/launchpad/login/" 
+mag 10 13:25:20 [Genymotion] [Error] [doRequest] Access to server forbidden 
+mag 10 13:25:20 [Genymotion] [Error] [login] Login process result: 4 
+mag 10 13:25:20 [Genymotion] [Error] [BasicAuthDialog::launchAuthentication] Login method received Connector::ResultCode  4 :  "Wrong username or password" 
+mag 10 13:26:11 [Genymotion] [Debug] [login] Trying to authenticate  "lorenzo.biagi2@gmail.com" 
+mag 10 13:26:11 [Genymotion] [Debug] Trying to logout user 
+mag 10 13:26:11 [Genymotion] [Debug] [doRequest] Requesting: "https://cloud.genymotion.com/launchpad/login/" 
+mag 10 13:26:11 [Genymotion] [Error] [doRequest] Access to server forbidden 
+mag 10 13:26:11 [Genymotion] [Error] [login] Login process result: 4 
+mag 10 13:26:11 [Genymotion] [Error] [BasicAuthDialog::launchAuthentication] Login method received Connector::ResultCode  4 :  "Wrong username or password" 
+mag 10 13:26:47 [Genymotion] [Debug] [login] Trying to authenticate  "mago22" 
+mag 10 13:26:47 [Genymotion] [Debug] Trying to logout user 
+mag 10 13:26:47 [Genymotion] [Debug] [doRequest] Requesting: "https://cloud.genymotion.com/launchpad/login/" 
+mag 10 13:26:47 [Genymotion] [Error] [doRequest] Access to server forbidden 
+mag 10 13:26:47 [Genymotion] [Error] [login] Login process result: 4 
+mag 10 13:26:47 [Genymotion] [Error] [BasicAuthDialog::launchAuthentication] Login method received Connector::ResultCode  4 :  "Wrong username or password" 
+mag 10 13:27:47 [Genymotion] [Debug] [login] Trying to authenticate  "mago22" 
+mag 10 13:27:47 [Genymotion] [Debug] Trying to logout user 
+mag 10 13:27:47 [Genymotion] [Debug] [doRequest] Requesting: "https://cloud.genymotion.com/launchpad/login/" 
+mag 10 13:27:47 [Genymotion] [Error] [doRequest] Access to server forbidden 
+mag 10 13:27:47 [Genymotion] [Error] [login] Login process result: 4 
+mag 10 13:27:47 [Genymotion] [Error] [BasicAuthDialog::launchAuthentication] Login method received Connector::ResultCode  4 :  "Wrong username or password" 
+mag 10 13:27:48 [Genymotion] [Debug] [login] Trying to authenticate  "mago22" 
+mag 10 13:27:48 [Genymotion] [Debug] Trying to logout user 
+mag 10 13:27:48 [Genymotion] [Debug] [doRequest] Requesting: "https://cloud.genymotion.com/launchpad/login/" 
+mag 10 13:27:48 [Genymotion] [Error] [doRequest] Access to server forbidden 
+mag 10 13:27:48 [Genymotion] [Error] [login] Login process result: 4 
+mag 10 13:27:48 [Genymotion] [Error] [BasicAuthDialog::launchAuthentication] Login method received Connector::ResultCode  4 :  "Wrong username or password" 
+mag 10 13:27:49 [Genymotion] [Debug] [login] Trying to authenticate  "mago22" 
+mag 10 13:27:49 [Genymotion] [Debug] Trying to logout user 
+mag 10 13:27:49 [Genymotion] [Debug] [doRequest] Requesting: "https://cloud.genymotion.com/launchpad/login/" 
+mag 10 13:27:49 [Genymotion] [Error] [doRequest] Access to server forbidden 
+mag 10 13:27:49 [Genymotion] [Error] [login] Login process result: 4 
+mag 10 13:27:49 [Genymotion] [Error] [BasicAuthDialog::launchAuthentication] Login method received Connector::ResultCode  4 :  "Wrong username or password" 
+mag 10 13:27:49 [Genymotion] [Debug] [login] Trying to authenticate  "mago22" 
+mag 10 13:27:49 [Genymotion] [Debug] Trying to logout user 
+mag 10 13:27:49 [Genymotion] [Debug] [doRequest] Requesting: "https://cloud.genymotion.com/launchpad/login/" 
+mag 10 13:27:50 [Genymotion] [Error] [doRequest] Access to server forbidden 
+mag 10 13:27:50 [Genymotion] [Error] [login] Login process result: 4 
+mag 10 13:27:50 [Genymotion] [Error] [BasicAuthDialog::launchAuthentication] Login method received Connector::ResultCode  4 :  "Wrong username or password" 
+mag 10 13:28:13 [Genymotion] [Debug] Getting currently authenticated user from  local cache 
+mag 10 13:52:18 [Genymotion] [Warning] ****  STOPPING GENYMOTION  **** 

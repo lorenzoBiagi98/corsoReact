@@ -1,0 +1,3 @@
+lsof -i :8080
+kill 5811
+kill 5811

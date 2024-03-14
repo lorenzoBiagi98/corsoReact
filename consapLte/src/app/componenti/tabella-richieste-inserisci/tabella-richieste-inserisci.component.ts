@@ -1,4 +1,5 @@
-import { Component, Input, OnInit } from '@angular/core';
+
+import { Component, ElementRef, Input, OnInit, ViewChild, viewChild } from '@angular/core';
 import { TabellaRichiesteGetAllComponent } from '../tabella-richieste-get-all/tabella-richieste-get-all.component';
 import { richiesta } from '../../modelli/richiesta';
 import { Location } from '@angular/common';
@@ -24,6 +25,8 @@ import { ConnessioneCommesseService } from '../../servizi/connessione-commesse.s
   styleUrl: './tabella-richieste-inserisci.component.css',
 })
 export class TabellaRichiesteInserisciComponent implements OnInit {
+ 
+  
   constructor(
     private location: Location,
     private dataService: DataServiceService,
@@ -31,9 +34,11 @@ export class TabellaRichiesteInserisciComponent implements OnInit {
     private connessioneApplicativo: ConnessioneApplicativoService,
     private connessioneOS: ConnessioneOsService,
     private connessioneRich: ConnessioneRichiestaService,
-    private connessioneComm :ConnessioneCommesseService,
+    private connessioneComm: ConnessioneCommesseService,
     private fb: FormBuilder
   ) {}
+
+  @ViewChild('applicativoInput') applicativoInput: ElementRef;
 
   public richieste: richiesta[] = [];
   public applicativi: applicativo[] = [];
@@ -44,20 +49,18 @@ export class TabellaRichiesteInserisciComponent implements OnInit {
   public approvazioniOS: approvazioneOS[] = [];
   nuovaRichiesta: any = {};
   ticketRich: any;
-  minDate:string =""
-  endDate:string =""
+  minDate: string = '';
+  endDate: string = '';
   today = new Date();
-  minDateEnd:Date = new Date(this.today.getTime()+5*24*60*60*1000);
+  minDateEnd: Date = new Date(this.today.getTime() + 5 * 24 * 60 * 60 * 1000);
 
+  idCommessa: number;
+  idApplicativo: number;
+  idAppCONSAP: number;
+  idAppOS: number;
+  idStatoCONSAP: number;
+  idStatoOS: number;
 
-  
-  idCommessa:number
-  idApplicativo:number
-  idAppCONSAP:number
-  idAppOS:number
-  idStatoCONSAP:number
-  idStatoOS:number
-  
   ngOnInit(): void {
     this.getApplicativi();
     this.getRichiesteCONSAP();
@@ -66,14 +69,52 @@ export class TabellaRichiesteInserisciComponent implements OnInit {
     this.getApprovazioniOS();
     this.getCommesse();
     console.log(this.applicativi);
-    this.minDate = this.today.toISOString().slice(0,16);
-    this.endDate = this.minDateEnd.toISOString().slice(0,16);
+    this.minDate = this.today.toISOString().slice(0, 16);
+    this.endDate = this.minDateEnd.toISOString().slice(0, 16);
   }
 
+  isFormValid(): boolean {
+    const ticketInput = (<HTMLInputElement>document.getElementById('ticketInput')).value;
+    const oggettoInput = (<HTMLInputElement>document.getElementById('oggettoInput')).value;
+    const dataCreazioneInput = (<HTMLInputElement>document.getElementById('dataCreazioneInput')).value;
+    const applicativoInput = (<HTMLSelectElement>document.getElementById('applicativoInput')).value;
+    const richiestaConsapInput = (<HTMLSelectElement>document.getElementById('richiestaConsapInput')).value;
+    const richiestaOsInput = (<HTMLSelectElement>document.getElementById('richiestaOsInput')).value;
+    const approvazioneConsapInput = (<HTMLSelectElement>document.getElementById('approvazioneConsapInput')).value;
+    const approvazioneOsInput = (<HTMLSelectElement>document.getElementById('approvazioneOsInput')).value;
+    const stimaDataFineInput = (<HTMLInputElement>document.getElementById('stimaDataFineInput')).value;
+    const importoInput = (<HTMLInputElement>document.getElementById('importoInput')).value;
+    const commessaOsInput = (<HTMLSelectElement>document.getElementById('commessaOsInput')).value;
+  
+    return (
+      ticketInput.trim() !== '' &&
+      oggettoInput.trim() !== '' &&
+      dataCreazioneInput.trim() !== '' &&
+      applicativoInput.trim() !== '' &&
+      richiestaConsapInput.trim() !== '' &&
+      richiestaOsInput.trim() !== '' &&
+      approvazioneConsapInput.trim() !== '' &&
+      approvazioneOsInput.trim() !== '' &&
+      stimaDataFineInput.trim() !== '' &&
+      importoInput.trim() !== '' &&
+      commessaOsInput.trim() !== ''
+    );
+  }
+  
+  showInvalidMessage: boolean = false;
+
   public saveRichiesta() {
-    this.nuovaRichiesta.richiestaNumeroTicket = parseInt((<HTMLInputElement>(
-      document.getElementById('ticketInput')
-    )).value);
+
+    const ticketInputValue = (<HTMLInputElement>document.getElementById('ticketInput')).value;
+
+if (ticketInputValue.length > 5) {
+    this.nuovaRichiesta.richiestaNumeroTicket = parseInt(ticketInputValue.slice(0, 5));
+} else {
+    this.nuovaRichiesta.richiestaNumeroTicket = parseInt(ticketInputValue);
+}
+    this.nuovaRichiesta.richiestaNumeroTicket = parseInt(
+      (<HTMLInputElement>document.getElementById('ticketInput')).value
+    );
     this.nuovaRichiesta.richiestaOggetto = (<HTMLInputElement>(
       document.getElementById('oggettoInput')
     )).value;
@@ -83,38 +124,39 @@ export class TabellaRichiesteInserisciComponent implements OnInit {
     this.nuovaRichiesta.richiestaDataStimaFine = (<HTMLInputElement>(
       document.getElementById('stimaDataFineInput')
     )).value;
-    // TO DO - FARE PER TUTTI COS^
-    this.nuovaRichiesta.applicativo = {
-      applicativoId: this.idApplicativo
-  };  
-    this.nuovaRichiesta.statoRichiestaCONSAP = 
-    { statoRichiestaCONSAPId: parseInt((<HTMLInputElement>(
-      document.getElementById('richiestaConsapInput')
-    )).value)};
-    this.nuovaRichiesta.statoRichiestaOS =
-    { statoRichiestaOSId: parseInt((<HTMLInputElement>(
-      document.getElementById('richiestaOsInput')
-    )).value)};
+
+    if (
+      this.idApplicativo !== null ||
+      typeof this.idApplicativo !== undefined
+    ) {
+      this.nuovaRichiesta.applicativo = {
+        applicativoId: this.idApplicativo,
+      };
+    } else {
+      this.nuovaRichiesta.applicativo = '';
+    }
+
+    this.nuovaRichiesta.statoRichiestaCONSAP = {
+      statoRichiestaCONSAPId: this.idStatoCONSAP,
+    };
+
+    this.nuovaRichiesta.statoRichiestaOS = {
+      statoRichiestaOSId: this.idStatoOS,
+    };
+
     this.nuovaRichiesta.statoApprovazioneCONSAP = {
-      statoApprovazioneCONSAPId : parseInt((<HTMLInputElement>(
-      document.getElementById('approvazioneConsapInput')
-    )).value)};
-    this.nuovaRichiesta.statoApprovazioneOS = 
-    {statoApprovazioneOSId: parseInt((<HTMLInputElement>(
-      document.getElementById('approvazioneOsInput')
-    )).value)};
+      statoApprovazioneCONSAPId: this.idAppCONSAP,
+    };
+    this.nuovaRichiesta.statoApprovazioneOS = {
+      statoApprovazioneOSId: this.idAppOS,
+    };
     this.nuovaRichiesta.importo = (<HTMLInputElement>(
       document.getElementById('importoInput')
     )).value;
-    this.nuovaRichiesta.commessaOS ={
-commessaOSId:parseInt((<HTMLInputElement>(
-      document.getElementById('commessaOsInput')
-    )).value)};
 
-    console.log(this.nuovaRichiesta.richiestaOggetto + 'oggetto');
-    console.log(this.nuovaRichiesta.dataCreazione + 'dc');
-    console.log(this.idAppCONSAP + 'AI');
-    console.log(this.nuovaRichiesta.RichiestaOsId + 'AI');
+    this.nuovaRichiesta.commessaOS = {
+      commessaOSId: this.idCommessa,
+    };
 
     this.connessioneRich
       .saveRichiesta(this.nuovaRichiesta)
@@ -123,31 +165,30 @@ commessaOSId:parseInt((<HTMLInputElement>(
       });
   }
 
-
   getSelectedCommessaId(event: any): void {
     this.idCommessa = event.target.value;
     console.log('Valore selezionato:', this.idCommessa);
   }
 
-  getSelectedApplicativoId(event:any):void{
+  getSelectedApplicativoId(event: any): void {
     this.idApplicativo = event.target.value;
   }
 
-  getSelectedRichiestaOsId(event:any):void{
+  getSelectedRichiestaOsId(event: any): void {
     this.idStatoOS = event.target.value;
   }
 
-  getSelectedRichiestaConsapId(event:any):void{
+  getSelectedRichiestaConsapId(event: any): void {
     this.idStatoCONSAP = event.target.value;
   }
 
-  getSelectedApprovazioneConsapId(event:any):void{
+  getSelectedApprovazioneConsapId(event: any): void {
     this.idAppCONSAP = event.target.value;
     console.log('Valore selezionato:', this.idAppCONSAP);
   }
 
-  getSelectedApprovazioneOsId(event:any):void{
-    this.idAppOS =event.target.value;
+  getSelectedApprovazioneOsId(event: any): void {
+    this.idAppOS = event.target.value;
   }
 
   public getApplicativi(): void {
@@ -237,4 +278,15 @@ commessaOSId:parseInt((<HTMLInputElement>(
   goBack(): void {
     this.location.back();
   }
+
+
+  showToast1: boolean = false;
+
+  showToast() {
+    this.showToast1 = true; 
+    setTimeout(() => {
+      this.showToast1 = false;
+    }, 3000); // 10 secondi
+  }
+  
 }

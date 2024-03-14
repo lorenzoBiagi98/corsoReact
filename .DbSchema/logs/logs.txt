@@ -1,0 +1,56 @@
+Start DbSchema.
+==== 2024-03-06 09:24:37 DbSchema #240229 Mac OS X 11.7.10 Java BellSoft 19.0.2 ===
+Set Mac systemMenuBar
+Screen Size: [1440.0,875.0] outputScaleY=2.0 screenResolution=Low
+ > next
+ > next
+ > next
+ > next
+ > next
+ > next
+ > next
+ > next
+ > next
+ > next
+ > next
+ > next
+ > next
+ > next
+ > connectToDatabase
+Dialog Scegli il tuo database
+Dialog Finestra di dialogo Connessione database
+Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary.
+
+ > connect
+Test connectivity to MySql
+Connect: MySql
+Connected.
+Test connectivity done.
+Successfully connected to MySQL 8.0.28 MySQL Connector/J mysql-connector-j-8.3.0 (Revision: 805f872a57875f311cb82487efcfb070411a3fa0)
+Import selection task...
+Import selection task done.
+Dialog Selezionare i cataloghi/schemi da decodificare
+Start importing schema 'Consap2' structure.
+MySql Version is 8.0.28
+Finish importing schema 'Consap2' structure.
+Import task from MySql
+Import Statistics -- 0.0 sec
+Schema Consap2
+
+Import task done.
+Create default layouts...
+REVERSE ENGINEERED 0 TABLES FROM MySql.
+Use RDBMS: MySql
+Set Mac systemMenuBar
+Dialog DbSchema PRO
+ > newUnitInFolder
+Dialog New Table in Schema Consap2
+ > addItem
+Dialog Nuova colonna nella tabella Consap2.tbl
+ > addItem
+Dialog Nuova colonna nella tabella Consap2.richiesta
+Dialog Finestra di dialogo Opzioni
+Dialog Finestra di dialogo Opzioni
+ > addItem
+Dialog Nuova colonna nella tabella Consap2.richiesta
+Dialog Finestra di dialogo Opzioni

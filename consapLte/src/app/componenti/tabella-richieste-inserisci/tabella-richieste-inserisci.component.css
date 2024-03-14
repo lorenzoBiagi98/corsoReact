@@ -1,0 +1,8 @@
+.invalid-message {
+    color: red;
+    font-size: 14px;
+  }
+  #toast-container{
+    /* Animazione di uscita */
+    animation: fadeOut 3s ease-in-out;
+  }

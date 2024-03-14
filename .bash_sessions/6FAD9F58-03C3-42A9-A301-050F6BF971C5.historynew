@@ -1,0 +1,21 @@
+npm install netlify-cli -g
+sudo npm install -g netlify-cli
+netlify login
+sudo netlify login
+ls
+cd DashBoard
+ng build
+cd dist/dash-board
+netlify deploy
+sudo netlify deploy
+cd ..
+cd dist/dash-board
+cd DashBoard
+ls
+cd ..
+cd dist/dashboard
+cd dist/dash-boar
+cd dist/dash-board
+netlify deploy
+sudo netlify deploy
+sudo netlify deploy --prod

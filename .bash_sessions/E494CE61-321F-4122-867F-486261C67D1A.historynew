@@ -1,0 +1,8 @@
+npm install <corsoAngular>
+npm install <corsoangular>
+npm install -g @angular/cli
+sudo npm install -g @angular/cli
+ng new corsoAngular
+sugo ng new corsoAngular
+-sugo ng new corsoAngular
+sugo ng new corsoAngular

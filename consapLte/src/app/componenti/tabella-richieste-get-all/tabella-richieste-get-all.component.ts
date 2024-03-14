@@ -40,9 +40,10 @@ export class TabellaRichiesteGetAllComponent implements OnInit {
   appOS:number = 0;
   oggettoDesc:string = "";
   commessaId: number = 0;
-  numeroTicket: number = 0;
+  numeroTicket: number;
   applicativoId: number = 0;
   pippo: any;
+  idDelete : number = 0;
   constructor(
     private connessioneRichiesta: ConnessioneRichiestaService,
     private connessioneApplicativo: ConnessioneApplicativoService,
@@ -62,6 +63,11 @@ export class TabellaRichiesteGetAllComponent implements OnInit {
     this.getApprovazioniCONSAP();
     this.getRichiesteOS();
     this.getApprovazioniOS();
+  }
+
+  getIdToDelete(id:number):number{
+    this.idDelete = id;
+    return this.idDelete;
   }
 
   public getApprovazioniCONSAP(): void {
@@ -243,6 +249,28 @@ export class TabellaRichiesteGetAllComponent implements OnInit {
       });
   }
 
+  deleteRichiesta(idRichiesta: number): void {
+    this.connessioneRichiesta.deleteRichiesta(idRichiesta).pipe(
+      catchError((error: HttpErrorResponse) => {
+        console.error('Errore durante l\'eliminazione della richiesta', error);
+        return throwError(error);
+      })
+    )
+    .subscribe((response) => {
+      console.log('Richiesta eliminata con successo:', response);
+      setTimeout(() => {
+        window.location.reload();
+      },4000); // 3000 millisecondi = 3 secondi
+    },
+    (error) => {
+      console.error('Errore durante l\'eliminazione della richiesta', error);
+    });
+  
+    console.log('ID da eliminare:', idRichiesta);
+  }
+  
+  
+  
   public getCommesse(): void {
     this.connessioneCommessa
       .getCommesse()
@@ -273,6 +301,7 @@ export class TabellaRichiesteGetAllComponent implements OnInit {
     this.router.navigate(['/home/tabellaRichieste/inserisci']);
   }
 
+
   inviaRichieste() {
     // Aggiungi gli elementi degli array uno per uno
     this.richieste.forEach((richiesta) => {
@@ -288,4 +317,14 @@ export class TabellaRichiesteGetAllComponent implements OnInit {
       this.dataService.arrayApplicativi.push(applicativo);
     });
   }
+
+  showToast1: boolean = false;
+
+  showToast() {
+    this.showToast1 = true; 
+    setTimeout(() => {
+      this.showToast1 = false;
+    }, 3000); // 10 secondi
+  }
+  
 }

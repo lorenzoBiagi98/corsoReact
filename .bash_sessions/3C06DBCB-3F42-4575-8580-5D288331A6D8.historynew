@@ -1,0 +1,6 @@
+/usr/local/mysql/bin/mysqldump
+/usr/local/mysql/bin/mysqldump -u root -p Consap > dump.sql
+/usr/local/mysql/bin/mysql -u root -p
+/usr/local/mysql/bin/mysqldump -u root -p Consap > dump.sql
+/usr/local/mysql/bin/mysql -u root -p
+/usr/local/mysql/bin/mysqldump -u root -p Consap > dump.sql

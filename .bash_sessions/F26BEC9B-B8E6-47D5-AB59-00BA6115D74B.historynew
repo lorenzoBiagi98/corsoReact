@@ -1,0 +1,14 @@
+cd Documenti
+cd Corso Open System
+content_copy
+npm install -g @angular/cli
+sudo npm install -g @angular/cli
+>cd desktop
+ng new corsoAngular
+--legacy-peer-deps ng new corsoAngular
+--force ng new corsoAngular
+npm install --force
+rm -rf node_modules
+npm install
+rm -rf node_modules
+npm install

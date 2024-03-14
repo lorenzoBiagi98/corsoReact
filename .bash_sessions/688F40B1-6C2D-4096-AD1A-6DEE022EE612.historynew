@@ -1,0 +1,11 @@
+mkdir Git
+cd Git
+git init
+ls
+ls -a
+open .git
+git status
+git add File.rtf
+git add File1.rtf
+git add File1.RTF
+git add File1.txt

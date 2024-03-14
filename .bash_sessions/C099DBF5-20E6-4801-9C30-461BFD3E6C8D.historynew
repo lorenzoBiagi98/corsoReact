@@ -1,0 +1,9 @@
+cd /Users/lorenzobiagi/Documents/Utilità/CorsoOpenSystem
+/Users/lorenzobiagi/Documents/Utilità/CorsoOpenSystem
+cd /Users/lorenzobiagi/Documents/Utilità/CorsoOpenSystem/
+open /Users/lorenzobiagi/Documents/Utilità/CorsoOpenSystem
+cd /Users/lorenzobiagi/Documents/Utilità/CorsoOpenSystem/ConsapBACKEND/
+open /Users/lorenzobiagi/Documents/Utilità/CorsoOpenSystem
+cd /Users/lorenzobiagi/Documents/Utilità/CorsoOpenSystem
+mysqldump -u root -p Consap > dump.sql
+sudo find / -name mysqldump

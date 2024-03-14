@@ -1,0 +1,4 @@
+sudo rm -rf /usr/local/{lib/node{,/.npm,_modules},bin,share/man}/npm*
+sudo rm -rf /opt/local/bin/npm /opt/local/include/npm /opt/local/lib/npm /opt/local/share/doc/npm
+npm --version
+npm -v

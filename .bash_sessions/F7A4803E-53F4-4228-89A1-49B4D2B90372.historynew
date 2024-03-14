@@ -1,0 +1,14 @@
+git status
+git add File1.rtf File2.rtf
+git add File2.rtf
+git init
+git add File1.rtf
+rm -rf .git
+git init
+git add File1.rtf File2.rtf
+git add File1.RTF
+git commit
+git add File2
+git add File2.rtf
+git clean -n
+git add File1.rtf

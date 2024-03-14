@@ -1,0 +1,8 @@
+firebase logout
+firebase login
+firebase use --add
+ls
+/Users/lorenzobiagi/Documents/Utilità/CorsoOpenSystem
+cd /Users/lorenzobiagi/Documents/Utilità/CorsoOpenSystem
+cd corsoAngular1
+ng build

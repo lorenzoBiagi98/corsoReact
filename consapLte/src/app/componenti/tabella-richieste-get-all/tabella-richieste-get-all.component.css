@@ -1,0 +1,13 @@
+/* Stile delle celle */
+.table td, .table th {
+    border-bottom: 3px solid gainsboro; /* Aggiunge una linea sotto le celle */
+  }
+  
+  /* Stile delle colonne */
+  .table td, .table th {
+    border-right: 3px solid gainsboro; /* Aggiunge una linea a destra delle celle */
+  }
+  #toast-container{
+    /* Animazione di uscita */
+    animation: fadeOut 3s ease-in-out;
+  }

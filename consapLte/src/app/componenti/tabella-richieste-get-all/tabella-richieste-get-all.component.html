@@ -1,18 +1,7 @@
 <title>AdminLTE 3 | DataTables</title>
 
-<!-- Google Font: Source Sans Pro -->
-
 <div class="hold-transition sidebar-mini">
   <div class="wrapper">
-    <!-- Navbar -->
-
-    <!-- /.navbar -->
-
-    <!-- Main Sidebar Container -->
-
-    <!-- Content Wrapper. Contains page content -->
-
-    <!-- Content Header (Page header) -->
     <section class="content-header">
       <div class="container-fluid">
         <div class="row mb-2">
@@ -21,13 +10,19 @@
           </div>
           <div class="col-sm-6 text-right mt-2">
             <div>
-              <button type="submit" routerLink="inserisci" (click)="inviaRichieste()">Nuova Richiesta</button>
+              <button type="submit" class="btn btn-dark" routerLink="inserisci" (click)="inviaRichieste()">Nuova Richiesta</button>
             </div>
           </div>
         </div>
       </div>
-      <!-- /.container-fluid -->
     </section>
+    <ng-container *ngIf="showToast1">
+      <div id="toast-container"  class="toast-top-right">
+        <div class="toast toast-success" aria-live="polite">
+          <div class="toast-message">Record eliminato correttamente</div>
+        </div>
+      </div>
+    </ng-container>
 
     <!-- Main content -->
     <section class="content">
@@ -122,7 +117,7 @@
 
                   <div class="col-md-3">
                     <label for="bottone">Cerca</label>
-                    <button id="bottone" type="button" class="btn btn-primary form-control"></button>
+                    <button id="bottone" type="button" class="btn btn-secondary form-control"></button>
                 </div>
                 </div>
                 <!-- /.form-group -->
@@ -152,59 +147,45 @@
                         <i class="fa fa-eye"></i>
                       </td>
                       <td (click)="redirect1(rich)"><i class="fa fa-pen"></i></td>
-                      <td><i class="fa fa-trash"></i></td>
+                      <td data-toggle= "modal" data-target="#modal-default" (click)="getIdToDelete(rich.richiestaId)"><i class="fa fa-trash"></i></td>
                     </tr>
                   </tbody>
                 </table>
+                <div class="modal fade" id="modal-default">
+                  <div class="modal-dialog">
+                    <div class="modal-content">
+                      <div class="modal-header">
+                        <h4 class="modal-title">Conferma eliminazione</h4>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                          <span aria-hidden="true">&times;</span>
+                        </button>
+                      </div>
+                      <div class="modal-body">
+                        <p>Eliminare la richiesta con ID: {{idDelete}}&hellip;</p>
+                      </div>
+                      <div class="modal-footer justify-content-between">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Annulla</button>
+                        <button type="button" class="btn btn-primary" data-dismiss="modal" (click)="showToast();deleteRichiesta(idDelete)">Conferma</button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
               </div>
-              <!-- /.card-body -->
+ 
             </div>
-            <!-- /.card -->
-
-            <!-- /.card -->
+ 
           </div>
-          <!-- /.col -->
+
         </div>
-        <!-- /.row -->
+
       </div>
-      <!-- /.container-fluid -->
+
     </section>
-    <!-- /.content -->
 
-    <!-- /.content-wrapper -->
-
-    <!-- Control Sidebar -->
     <aside class="control-sidebar control-sidebar-dark">
-      <!-- Control sidebar content goes here -->
+
     </aside>
-    <!-- /.control-sidebar -->
+
   </div>
-  <!-- ./wrapper -->
 
-  <!-- jQuery -->
-
-  <!-- Page specific script -->
-  <script>
-    $(function () {
-      $("#example1")
-        .DataTable({
-          responsive: true,
-          lengthChange: false,
-          autoWidth: false,
-          buttons: ["copy", "csv", "excel", "pdf", "print", "colvis"],
-        })
-        .buttons()
-        .container()
-        .appendTo("#example1_wrapper .col-md-6:eq(0)");
-      $("#example2").DataTable({
-        paging: true,
-        lengthChange: false,
-        searching: false,
-        ordering: true,
-        info: true,
-        autoWidth: false,
-        responsive: true,
-      });
-    });
-  </script>
 </div>

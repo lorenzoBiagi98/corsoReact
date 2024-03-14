@@ -1,0 +1,32 @@
+npm -v
+node -v
+npm install -g @angular/cli
+sudo npm install -g @angular/cli
+ng new corsoAngular
+--force ng new corsoAngular
+ng new corsoAngular --force
+node -v
+nvm -v
+ng new corsoAngular --legacy-peer-deps
+ng new corsoAngula --legacy-peer-deps
+npm -v
+cd /use/local/bin/node
+cd /usr/local/bin/node
+cd /usr/local/bin/node
+cd/usr/local/bin/node
+cd usr/local/bin/node
+cd usr/local/bin/node
+cd usr/local/bin
+sudo rm -rf /usr/local/{lib/node{,/.npm,_modules},bin,share/man}/npm*
+sudo rm -rf /usr/local/bin/npm
+sudo rm -rf /usr/local/include/node/
+sudo rm -rf /usr/local/lib/node*
+sudo rm -rf /usr/local/include/node*
+sudo rm -rf /usr/local/bin/node*
+sudo rm -rf /usr/local/share/man/man1/node.1
+sudo rm -rf /usr/local/lib/dtrace/node.d
+sudo rm -rf ~/.npm
+-ng version
+ng version
+angular -cli version
+angular

@@ -1,0 +1,3 @@
+mysqldump -u root -p football1 > dump.sql
+which mysqldump
+sudo find / -name mysqldump

@@ -1,0 +1,7 @@
+/usr/local/mysql-8.0.28-macos11-x86_64/bin/mysqldump -u root -p Consap > dump.sql
+GRANT SELECT, LOCK TABLES ON Consap.* TO 'root'@'localhost';
+/usr/local/mysql-8.0.28-macos11-x86_64/bin/mysqldump -u root -p Consap > dump.sql
+mysql -u root -p
+sudo find / -name mysql
+/usr/local/mysql-8.0.28-macos11-x86_64/bin/mysql -u root -p
+/usr/local/mysql/bin/mysqldump

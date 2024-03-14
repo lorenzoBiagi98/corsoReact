@@ -1,0 +1,13 @@
+ng new ConsapFE -no--standalone
+ng new ConsapFE --no-standalone
+npm cache clean --force
+ng new ConsapFE --no-strict --force
+ng new ConsapFE --no-strict --force
+ng new ConsapFE1 --no-standalone --force
+ng new ConsapFE --no-strict --legacy-peer-deps
+ng new ConsapFE --no-strict --legacy-peer-deps
+npm cache clean --force
+sudo chown -R 502:20 "/Users/lorenzobiagi/.npm"
+npm cache clean --force
+ng new ConsapFE --no-strict
+ng new ConsapF1E --no-strict

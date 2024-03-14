@@ -1,0 +1,503 @@
+git init
+git add File1.rtf
+git status
+git add Scrivania/File1.rtf
+git rm --cached Scrivania/File1.rtf
+git rm --cached Scrivania/File1.rtf
+git rm --cached File1.rtf
+git add File2.rtf
+git log
+git -ls
+git -ls files
+git add File2.rtf
+cd
+Scrivania
+cd .git
+cd home
+cd..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+pwd
+rm -rf .git
+git int
+git init
+git add File1.rtf
+git init
+rm -rf .git
+git init
+git .add
+git add File1.rtf
+cd ~
+git init
+git add File1.rtf
+git add File2.rtf
+git add Scrivania/File1.rtf
+cp
+cp ~/Desktop/File1.rtf 
+git add File1.rtf
+ /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /private/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/vscodesws_973b0/jdt_ws/jdt.ls-java-project/bin BubbleSort 
+ /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /private/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/vscodesws_6671d/jdt_ws/jdt.ls-java-project/bin main.BubbleSort 
+ /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /private/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/vscodesws_6671d/jdt_ws/jdt.ls-java-project/bin BubbleSort 
+ /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /private/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/vscodesws_6671d/jdt_ws/jdt.ls-java-project/bin BubbleSort 
+ /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /private/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/vscodesws_6671d/jdt_ws/jdt.ls-java-project/bin BubbleSort 
+ /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /private/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/vscodesws_6671d/jdt_ws/jdt.ls-java-project/bin BubbleSort 
+ /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /private/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/vscodesws_6671d/jdt_ws/jdt.ls-java-project/bin BubbleSort 
+ /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /private/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/vscodesws_6671d/jdt_ws/jdt.ls-java-project/bin main.BubbleSort 
+ /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /private/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/vscodesws_6671d/jdt_ws/jdt.ls-java-project/bin BubbleSort 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.25.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_dcw4cg7twsdgygi5m7nazlq4v.argfile com.example.ProjectCalcio.ProjectCalcioApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_f2hs4c5iwht11qqqj1hs98eyu.argfile com.example.ProjectCalcio.ProjectCalcioApplication 
+ /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /private/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/vscodesws_bdc99/jdt_ws/jdt.ls-java-project/bin Main 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.Prova 
+ cd /Users/lorenzobiagi/Desktop/demo ; /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.Prova 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.Prova 
+ cd /Users/lorenzobiagi/Desktop/demo ; /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.Prova 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.Prova 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.prova.prova 
+ cd /Users/lorenzobiagi/Desktop/demo ; /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.prova.prova 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.prova.prova 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.prova.prova 
+ cd /Users/lorenzobiagi/Desktop/demo ; /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.prova.prova 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.DemoApplication 
+whick docker
+which doker
+which docker
+ /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /private/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/vscodesws_6c6eb/jdt_ws/jdt.ls-java-project/bin Main 
+ /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /private/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/vscodesws_6f644/jdt_ws/jdt.ls-java-project/bin Main 
+ /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /private/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/vscodesws_6f644/jdt_ws/jdt.ls-java-project/bin Main 
+ /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /Users/lorenzobiagi/Downloads/provaEcuBit/bin entities.Biblioteca 
+ /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /Users/lorenzobiagi/Downloads/provaEcuBit/bin entities.Biblioteca 
+ cd /Users/lorenzobiagi/Downloads/provaEcuBit ; /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /Users/lorenzobiagi/Downloads/provaEcuBit/bin entities.Biblioteca 
+ cd /Users/lorenzobiagi/Downloads/provaEcuBit ; /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /Users/lorenzobiagi/Downloads/provaEcuBit/bin entities.Biblioteca 
+ /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /Users/lorenzobiagi/Downloads/provaEcuBit/bin entities.Biblioteca 
+ cd /Users/lorenzobiagi/Downloads/provaEcuBit ; /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /Users/lorenzobiagi/Downloads/provaEcuBit/bin entities.Biblioteca 
+ /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /Users/lorenzobiagi/Downloads/provaEcuBit/bin entities.Biblioteca 
+ /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /Users/lorenzobiagi/Downloads/provaEcuBit/bin entities.Biblioteca 
+ cd /Users/lorenzobiagi/Downloads/provaEcuBit ; /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /Users/lorenzobiagi/Downloads/provaEcuBit/bin entities.Biblioteca 
+ cd /Users/lorenzobiagi/Downloads/provaEcuBit ; /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /Users/lorenzobiagi/Downloads/provaEcuBit/bin entities.Biblioteca 
+ cd /Users/lorenzobiagi/Downloads/provaEcuBit ; /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /Users/lorenzobiagi/Downloads/provaEcuBit/bin entities.Biblioteca 
+ cd /Users/lorenzobiagi/Downloads/provaEcuBit ; /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /Users/lorenzobiagi/Downloads/provaEcuBit/bin entities.Biblioteca 
+ cd /Users/lorenzobiagi/Downloads/provaEcuBit ; /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /Users/lorenzobiagi/Downloads/provaEcuBit/bin entities.Biblioteca 
+ /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /Users/lorenzobiagi/Downloads/provaEcuBit/bin entities.Biblioteca 
+ cd /Users/lorenzobiagi/Downloads/provaEcuBit ; /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /Users/lorenzobiagi/Downloads/provaEcuBit/bin entities.Biblioteca 
+ cd /Users/lorenzobiagi/Downloads/provaEcuBit ; /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /Users/lorenzobiagi/Downloads/provaEcuBit/bin entities.Biblioteca 
+ cd /Users/lorenzobiagi/Downloads/provaEcuBit ; /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /Users/lorenzobiagi/Downloads/provaEcuBit/bin entities.Biblioteca 
+ /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /Users/lorenzobiagi/Downloads/provaEcuBit/bin entities.Biblioteca 
+ /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /Users/lorenzobiagi/Downloads/provaEcuBit/bin entities.Biblioteca 
+ cd /Users/lorenzobiagi/Downloads/provaEcuBit ; /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /Users/lorenzobiagi/Downloads/provaEcuBit/bin entities.Biblioteca 
+ /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /Users/lorenzobiagi/Downloads/provaEcuBit/bin entities.Biblioteca 
+ cd /Users/lorenzobiagi/Downloads/provaEcuBit ; /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /Users/lorenzobiagi/Downloads/provaEcuBit/bin entities.Biblioteca 
+ /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /Users/lorenzobiagi/Downloads/provaEcuBit/bin entities.Biblioteca 
+ cd /Users/lorenzobiagi/Downloads/provaEcuBit ; /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /Users/lorenzobiagi/Downloads/provaEcuBit/bin entities.Biblioteca 
+ /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /Users/lorenzobiagi/Downloads/provaEcuBit/bin entities.Biblioteca 
+ /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /Users/lorenzobiagi/Downloads/provaEcuBit/bin entities.Biblioteca 
+ cd /Users/lorenzobiagi/Downloads/provaEcuBit ; /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /Users/lorenzobiagi/Downloads/provaEcuBit/bin entities.Biblioteca 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.prova.prova 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.prova.prova 
+ cd /Users/lorenzobiagi/Desktop/demo ; /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.prova.prova 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.prova.prova 
+ cd /Users/lorenzobiagi/Desktop/demo ; /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.prova.prova 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.prova.prova 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.prova.prova 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.prova.prova 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_4z6gvpnz99itk084cdno3w86t.argfile it.ecubit.java.training.collections.test.JavaCollectionsTest 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_4z6gvpnz99itk084cdno3w86t.argfile it.ecubit.java.training.collections.test.JavaCollectionsTest 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_4z6gvpnz99itk084cdno3w86t.argfile it.ecubit.java.training.collections.test.JavaCollectionsTest 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_4z6gvpnz99itk084cdno3w86t.argfile it.ecubit.java.training.collections.test.JavaCollectionsTest 
+javac it/ecubit/java/training/collections/test/JavaCollectionsTest.java
+javac it/ecubit/java/training/collections/test/JavaCollectionsTest.java
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_4z6gvpnz99itk084cdno3w86t.argfile it.ecubit.java.training.collections.test.JavaCollectionsTest 
+mvn clean install
+mvn clean install
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_4z6gvpnz99itk084cdno3w86t.argfile it.ecubit.java.training.collections.test.JavaCollectionsTest 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_4z6gvpnz99itk084cdno3w86t.argfile it.ecubit.java.training.collections.test.JavaCollectionsTest 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_4z6gvpnz99itk084cdno3w86t.argfile it.ecubit.java.training.collections.test.JavaCollectionsTest 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_4z6gvpnz99itk084cdno3w86t.argfile it.ecubit.java.training.collections.test.JavaCollectionsTest 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_4z6gvpnz99itk084cdno3w86t.argfile it.ecubit.java.training.collections.test.JavaCollectionsTest 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_4z6gvpnz99itk084cdno3w86t.argfile it.ecubit.java.training.collections.test.JavaCollectionsTest 
+ cd /Users/lorenzobiagi/Desktop/Java\ exercise/java-training ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_4z6gvpnz99itk084cdno3w86t.argfile it.ecubit.java.training.collections.test.JavaCollectionsTest 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_4z6gvpnz99itk084cdno3w86t.argfile it.ecubit.java.training.collections.test.JavaCollectionsTest 
+ cd /Users/lorenzobiagi/Desktop/Java\ exercise/java-training ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_4z6gvpnz99itk084cdno3w86t.argfile it.ecubit.java.training.collections.test.JavaCollectionsTest 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_4z6gvpnz99itk084cdno3w86t.argfile it.ecubit.java.training.collections.test.JavaCollectionsTest 
+ cd /Users/lorenzobiagi/Desktop/Java\ exercise/java-training ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_4z6gvpnz99itk084cdno3w86t.argfile it.ecubit.java.training.collections.test.JavaCollectionsTest 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_4z6gvpnz99itk084cdno3w86t.argfile it.ecubit.java.training.collections.test.JavaCollectionsTest 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_4z6gvpnz99itk084cdno3w86t.argfile it.ecubit.java.training.collections.test.JavaCollectionsTest 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_4z6gvpnz99itk084cdno3w86t.argfile it.ecubit.java.training.collections.test.JavaCollectionsTest 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_4z6gvpnz99itk084cdno3w86t.argfile it.ecubit.java.training.collections.test.JavaCollectionsTest 
+ cd /Users/lorenzobiagi/Desktop/Java\ exercise/java-training ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_4z6gvpnz99itk084cdno3w86t.argfile it.ecubit.java.training.collections.test.JavaCollectionsTest 
+ cd /Users/lorenzobiagi/Desktop/Java\ exercise/java-training ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_4z6gvpnz99itk084cdno3w86t.argfile it.ecubit.java.training.collections.test.JavaCollectionsTest 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_4z6gvpnz99itk084cdno3w86t.argfile it.ecubit.java.training.collections.test.JavaCollectionsTest 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_4z6gvpnz99itk084cdno3w86t.argfile it.ecubit.java.training.collections.test.JavaCollectionsTest 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_4z6gvpnz99itk084cdno3w86t.argfile it.ecubit.java.training.collections.test.JavaCollectionsTest 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_4z6gvpnz99itk084cdno3w86t.argfile it.ecubit.java.training.collections.test.JavaCollectionsTest 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_4z6gvpnz99itk084cdno3w86t.argfile it.ecubit.java.training.collections.test.JavaCollectionsTest 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_4z6gvpnz99itk084cdno3w86t.argfile it.ecubit.java.training.collections.test.JavaCollectionsTest 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_4z6gvpnz99itk084cdno3w86t.argfile it.ecubit.java.training.collections.test.JavaCollectionsTest 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_4z6gvpnz99itk084cdno3w86t.argfile it.ecubit.java.training.collections.test.JavaCollectionsTest 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_4z6gvpnz99itk084cdno3w86t.argfile it.ecubit.java.training.collections.test.JavaCollectionsTest 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.prova.prova 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.prova.prova 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.prova.prova 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.prova.prova 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.prova.prova 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_2w8bn0be5ctv705igvev93bzt.argfile com.example.demo.prova.prova 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ cd /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3 ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ cd /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3 ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ cd /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3 ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ cd /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3 ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ cd /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3 ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ cd /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3 ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ cd /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3 ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ cd /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3 ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ cd /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3 ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ cd /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3 ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ cd /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3 ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ cd /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3 ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ cd /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3 ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ cd /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3 ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ cd /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3 ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ cd /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3 ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ cd /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3 ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ cd /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3 ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ cd /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3 ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ cd /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3 ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ cd /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3 ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ cd /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3 ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ cd /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3 ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ cd /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3 ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ cd /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3 ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main01 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main01 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main01 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/ProvaEcubit3/bin main.Main01 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.prova.prova 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ cd /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/demo ; /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.prova.prova 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ cd /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/demo ; /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ cd /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/demo ; /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.prova.prova 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.prova.prova 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.prova.prova 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.prova.prova 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ cd /Users/lorenzobiagi/Documents/Utilità/Academy\ Ecubit/demo ; /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.prova.prova 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.prova.prova 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.prova.prova 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.prova.prova 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.prova.prova 
+ /usr/bin/env /Users/lorenzobiagi/.vscode/extensions/redhat.java-1.26.0-darwin-x64/jre/17.0.9-macosx-x86_64/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_a3f4y71hczqoteqfugkvfckbv.argfile com.example.demo.DemoApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java @/var/folders/1x/f4dhyvdd5nv_bcrg53ltns_c0000gp/T/cp_8deu3qooxfepw5l3jrj8pzt5j.argfile com.example.demo.ProjectEcubitApplication 
+node -v
+content_copy
+npm install -g @angular/clicontent_copy
+npm install -g @angular/cli
+content_copy
+npm install -g @angular/clicontent_copy
+npm install -g @angular/cli
+npm ERR! A complete log of this run can be found in: /Users/lorenzobiagi/.npm/_logs/2024-02-14T15_15_36_842Z-debug-0.log
+MacBook-Pro-di-Stefano:~ lorenzobiagi$ npm install -g @angular/cli
+npm ERR! code EACCES
+npm ERR! syscall mkdir
+npm ERR! path /usr/local/lib/node_modules/@angular
+npm ERR! errno -13
+npm ERR! Error: EACCES: permission denied, mkdir '/usr/local/lib/node_modules/@angular'
+npm ERR!  [Error: EACCES: permission denied, mkdir '/usr/local/lib/node_modules/@angular'] {
+npm ERR!   errno: -13,
+npm ERR!   code: 'EACCES',
+npm ERR!   syscall: 'mkdir',
+npm ERR!   path: '/usr/local/lib/node_modules/@angular'
+npm ERR! }
+npm ERR! 
+npm ERR! The operation was rejected by your operating system.
+npm ERR! It is likely you do not have the permissions to access this file as the current user
+npm ERR! 
+npm ERR! If you believe this might be a permissions issue, please double-check the
+npm ERR! permissions of the file and its containing directories, or try running
+npm ERR! the command again as root/Administrator.
+npm ERR! A complete log of this run can be found in: /Users/lorenzobiagi/.npm/_logs/2024-02-14T15_15_40_071Z-debug-0.log
+MacBook-Pro-di-Stefano:~ lorenzobiagi$ content_copy
+-bash: content_copy: command not found
+MaMaMok-Pro-di-Stefano:~ MaManzobiagi$ npm install -g @angular/clicontent_coMaMapm ERR! code E4Ma
+npm ERR! 404 Not Found - GET https://registry.npmjs.org/@angular%2fclicontent_copy - npm ERR! 404 Not Found - GET https://registry.npmjs.org/@angular%' is not in this registry.
+npm ERR! 404 
+npm ERR! 4npm ote that you can also inpm ll from a
+npm ERR! 404 tanpall, folder, http url, or git url.
+
+npm ERR! A complete log of thnpm un cannbe found in: /Users/lorenzobiagi/.npm/_logs/2024-02-14T15_16_00_804Z-debug-0.log
+MacBook-Pro-di-Stefano:~ lorenzobiagi$ npm install -g @angular/cli
+
+top
+

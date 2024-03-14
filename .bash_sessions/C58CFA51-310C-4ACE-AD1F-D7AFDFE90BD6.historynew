@@ -1,0 +1,17 @@
+sudo npm install -g @angular/cli
+ng new corsoAngular
+sudo chown -R 501:20 "/Users/lorenzobiagi/.npm"
+npm cache clean --force
+sudo chown -R 502:20 "/Users/lorenzobiagi/.npm"
+npm cache clean --force
+ng new corsoAngular
+cd corsoAngular
+code
+code
+cd corsoAngular
+ng new corsoAngular
+ng corsoAngular1
+ng corsoAngulare
+ng new corsoAngular1
+code
+cd corsoAngular

@@ -1,0 +1,3 @@
+ng g new consapFrontEnd -no--standalone
+ng new consapFrontEnd -no--standalone
+ng new consapFrontEnd --no-standalone
