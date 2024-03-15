@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Sep 21 21:39:53 CEST 2023
+spring-boot-starter-thymeleaf-3.1.4.pom>central=
+spring-boot-starter-thymeleaf-3.1.4.jar>central=
+spring-boot-starter-thymeleaf-3.1.4-sources.jar>central=

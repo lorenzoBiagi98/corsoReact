@@ -1,4 +1,3 @@
-firebase deploy
 ng add @nguniversal/express-engine
 firebase deploy
 firebase deploy
@@ -498,3 +497,4 @@ git push
 git remote add ramodiProva https://github.com/lorenzoBiagi98/ConsapFRONTEND.git
 git push ramodiProva
  git push --set-upstream ramodiProva ramoDiProva
+npm start
