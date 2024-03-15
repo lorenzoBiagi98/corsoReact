@@ -1,0 +1,2 @@
+/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home:1:8:0:64:true:1458538532000:x86_64
+/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home:1:8:0:64:false:1500701706000:x86_64

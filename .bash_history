@@ -1,28 +1,3 @@
-sudo npm install -g firebase-tools --force
-firebase clear
-ng build
-ng build
-firebase hosting:channel:deploy preview_name
-ng build
-ng g environemnts/environments
-ng generate environment environments/environment
-ng g environments/environments
-ng g environemnts
-ng generate environments
-ng deploy
-firebase deploy
-ng build
-firebase deploy
-ls
-cd DashBoard
-ls
-firebase init
-firebase deploy
-firebase function:log
-firebase functions:log
-firebase experiments:enable webframeworks
-firebase init hosting
-firebase init hosting
 firebase deploy
 ng add @nguniversal/express-engine
 firebase deploy
@@ -498,3 +473,28 @@ git push master
 git push
  git push --set-upstream master dev
  git push --set-upstream master
+git log
+git branch
+git remote
+git push dev prova3
+git push prova3 dev
+git log
+git log
+git branch -a
+git remote -v
+git remote
+git status
+git pull
+ git branch --set-upstream-to=prova3/prova3  dev
+git log
+git status
+git push
+git remote add prova4 https://github.com/lorenzoBiagi98/ConsapFRONTEND.git
+git push prova4 prova5
+git remote add https://github.com/lorenzoBiagi98/ConsapFRONTEND.git
+git reset
+git remote add prova4 https://github.com/lorenzoBiagi98/ConsapFRONTEND.git
+git push
+git remote add ramodiProva https://github.com/lorenzoBiagi98/ConsapFRONTEND.git
+git push ramodiProva
+ git push --set-upstream ramodiProva ramoDiProva

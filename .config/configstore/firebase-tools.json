@@ -1,0 +1,55 @@
+{
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1708935703531
+	},
+	"activeProjects": {
+		"/Users/lorenzobiagi/Documents/Utilità/Corso Open System/corsoAngular1": "provaangular1-1",
+		"/Users/lorenzobiagi/Documents/Utilità/CorsoOpenSystem/corsoAngular1": "provaangular1-1",
+		"/Users/lorenzobiagi/DashBoard": "provaangular1-1"
+	},
+	"additionalAccounts": [],
+	"activeAccounts": {},
+	"usage": false,
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "101717075546049513618",
+		"email": "lorenzo.biagi2@gmail.com",
+		"email_verified": true,
+		"at_hash": "dWD3CenNfJ16BGshooP3dw",
+		"iat": 1708507114,
+		"exp": 1708510714
+	},
+	"tokens": {
+		"expires_at": 1708939430553,
+		"refresh_token": "1//09QG4SEtcNKaACgYIARAAGAkSNwF-L9Irr6_O90lYNkFij5QXIEcbEH2RGYeGhe2f1_k6es-Vd5EPkZtimWN-MNFiUEv8NeoJZM8",
+		"scopes": [],
+		"access_token": "ya29.a0AfB_byC3nSz4E6m6hJGyDY_otN1dUu8nXQS8iHr_lu3dd9jj0Xm0MDj2_srwpQpWvPgeuYU6wGO3VR1ww2tFyZtb78qvbXIilAaUobXhdrBGcW_JacFkVZl195dIKPohhzGeZecnPCOzi2jF6d-nJs8c3PHtPo9O05o25OCu0HMaCgYKAXESARESFQHGX2Mi-ZVvTy_znV8I-zxN1u3nbw0178",
+		"expires_in": 3599,
+		"scope": "https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/firebase openid",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjU1YzE4OGE4MzU0NmZjMTg4ZTUxNTc2YmE3MjgzNmUwNjAwZThiNzMiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTAxNzE3MDc1NTQ2MDQ5NTEzNjE4IiwiZW1haWwiOiJsb3JlbnpvLmJpYWdpMkBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXRfaGFzaCI6Im9vdDFfdDFCSndLWHI4STI0UDBYV0EiLCJpYXQiOjE3MDg5MzU4MzEsImV4cCI6MTcwODkzOTQzMX0.QgTI5h6pq6jeMyHV-l06nOQtyoB7ScsKZJdm_za-8SgySp7d16cnOyTAXz1ZyBktWQ_17Y4XND_IC0pwswDMu-tJIM60e-NUJphUGLr2FQUa9RGqEMroqYLcsjyW2HDmxFMaO_56k5r99zMEUSvsHBTrJKdUU9oJDuNZxlG8dPopiVAQ0_IxgXX1YmUb7_g9o7F0UHD3Rd3x5bos2Y56RVkV0KF1aEn_nhJ45t-sfygXLGFsvtURC1W6ZfETXTi70MmQ1TfirelgM0CNIJtCcLec8PUB_zkGi8GFegC0YWBBD_ZvYi7x66jXFDp0JlFKBJ-hOfR_QZbOLNeepuEjNA"
+	},
+	"previews": {
+		"webframeworks": true
+	},
+	"webconfig": {
+		"provaangular1-1": {
+			"projectId": "provaangular1-1",
+			"databaseURL": "https://provaangular1-1-default-rtdb.europe-west1.firebasedatabase.app",
+			"storageBucket": "provaangular1-1.appspot.com",
+			"apiKey": "AIzaSyChbRblwKafRtiXj0v3eDbEVSQ_cuWiW1w",
+			"authDomain": "provaangular1-1.firebaseapp.com",
+			"messagingSenderId": "222932631286"
+		}
+	},
+	"lastError": 1708938077400
+}

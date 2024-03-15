@@ -1,0 +1,7 @@
+[init]
+	defaultBranch = dev
+[user]
+	name = Lorenzo
+	email = lorenzo.biagi2@gmail.com
+[core]
+	editor = code --wait

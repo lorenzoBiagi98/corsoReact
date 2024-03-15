@@ -5,7 +5,7 @@ import { catchError, throwError } from 'rxjs';
 import { error } from 'console';
 import { HttpErrorResponse } from '@angular/common/http';
 import { JsonPipe } from '@angular/common';
-import { Router } from '@angular/router';
+import { Router } from '@angular/router';       
 import { applicativo } from '../../modelli/applicativo';
 import { ConnessioneApplicativoService } from '../../servizi/connessione-applicativo.service';
 import { ConnessioneCommesseService } from '../../servizi/connessione-commesse.service';
@@ -26,8 +26,8 @@ import { approvazioneOS } from '../../modelli/approvazioneOS';
   styleUrl: './tabella-richieste-get-all.component.css',
 })
 export class TabellaRichiesteGetAllComponent implements OnInit {
-  public richieste: richiesta[] = [];
-  public richiesteFiltro: richiesta[] = [];
+  public richieste: richiesta[] = [];//
+  public richiesteFiltro: richiesta[] = []; ////
   public applicativi: applicativo[] = [];
   public commesse: commessa[] = [];
   public richiesteCONSAP: richiestaCONSAP[] = [];
